@@ -64,8 +64,8 @@ This MVP focuses on delivering essential functionality to users for searching an
 
 To give any suggestion or report any bug, reach me via emial:
 
-    - [Email](gichukimuchiri@gmail.com)
-    - [Web Email](info@gichukimuchiri.com)
+    gichukimuchiri@gmail.com
+    info@gichukimuchiri.com
 
 ## License
 
