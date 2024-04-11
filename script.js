@@ -1,196 +1,265 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const searchInput = document.getElementById("search-input");
-  const searchBtn = document.getElementById("search-btn");
+function runProgram () {
+    
+  fetch("https://mindforge-final-1.onrender.com/podcasts/")
+  .then((resp) => resp.json())
+  .then((podcasts) => {
+
+      getPodcastsQuery(podcasts);
+
+      podcasts.forEach((podcast) => {
+
+          const podcastCol = document.createElement("div");
+            podcastCol.classList.add("col");
+ 
+          const podcastCard = document.createElement("div");
+            podcastCard.classList.add("card");
+
+            const podcastImage = document.createElement("img");
+            podcastImage.classList.add("card-img-top");
+            podcastImage.src = podcast.image;
+            podcastImage.alt = podcast.title;
+            console.log(podcastImage);
+
+            const podcastBody = document.createElement("div");
+            podcastBody.classList.add("card-body");
+
+            const podcastTitle = document.createElement("h5");
+            podcastTitle.classList.add("card-title");
+            podcastTitle.innerHTML = podcast.title;
+            const podcastDesc = document.createElement("p");
+            podcastDesc.classList.add("card-text");
+            podcastDesc.innerHTML = podcast.description;
+            console.log(podcastDesc);
+
+      });
+
+  });
+
+  fetch("https://mindforge-final-1.onrender.com/quotes/")
+  .then((resp) => resp.json())
+  .then((quotes) => {
+      
+      getQuotesQuery(quotes);
+
+      quotes.forEach((quote) => {
+
+          const quoteCol = document.createElement("div");
+          quoteCol.classList.add("col");
+
+          const quoteCard = document.createElement("div");
+          quoteCard.classList.add("card")
+
+          const quoteCardBody = document.createElement("div");
+          quoteCardBody.classList.add("card-body")
+
+          const blockQuote = document.createElement("blockquote");
+          blockQuote.classList.add("blockquote");
+
+          const quotedetail = document.createElement("p");
+          quotedetail.innerHTML = quote.quote
+          const quoteAuthor = document.createElement("p");
+          quoteAuthor.classList.add("blockquote-footer");
+          quoteAuthor.innerHTML = quote.author;
+
+      });
+  });
+
+  fetch("https://mindforge-final-1.onrender.com/books/")
+  .then((resp) => resp.json())
+  .then((books) => {
+
+      getBooksQuery(books);
+
+      books.forEach((book) => {
+
+          const bookCol = document.createElement("div");
+            bookCol.classList.add("col");
+ 
+          const bookCard = document.createElement("div");
+            bookCard.classList.add("card");
+
+            const bookImage = document.createElement("img");
+            bookImage.classList.add("card-img-top");
+            bookImage.src = book.image;
+            bookImage.alt = book.title;
+            console.log(bookImage);
+
+            const bookBody = document.createElement("div");
+            bookBody.classList.add("card-body");
+
+            const bookTitle = document.createElement("h5");
+            bookTitle.classList.add("card-title");
+            bookTitle.innerHTML = book.title;
+            const bookDesc = document.createElement("p");
+            bookDesc.classList.add("card-text");
+            bookDesc.innerHTML = book.description;
+            console.log(bookDesc);
+
+      });
+
+  });
+
+}
+
+function getPodcastsQuery (podcasts) {
+
+  podcasts.forEach((podcast) => {
+      const searchInput = document.getElementById("search-input");
+      const searchBtn = document.getElementById("search-btn");
+
+      searchBtn.addEventListener("click", () => {
+    
+          let podcastName = searchInput.value;
+          if (podcastName == podcast.category) {
+              showPodcastDetails(podcast)
+          };
+
+          });
+  })
+
+}
+
+function getQuotesQuery (quotes) {
+  quotes.forEach((quote) => {
+      const searchInput = document.getElementById("search-input");
+      const searchBtn = document.getElementById("search-btn");
+
+      searchBtn.addEventListener("click", () => {
+    
+          let quoteCat = searchInput.value;
+          if (quoteCat == quote.category) {
+              showquoteDetails(quote)
+          };
+
+          });
+  })
+}
+
+function getBooksQuery (books) {
+  books.forEach((book) => {
+      const searchInput = document.getElementById("search-input");
+      const searchBtn = document.getElementById("search-btn");
+
+      searchBtn.addEventListener("click", () => {
+    
+          let bookCat = searchInput.value;
+          if (bookCat == book.category) {
+              showBookDetails(book)
+          };
+
+          });
+  })
+}
+
+function showPodcastDetails (podcast) {
   const podcastRow = document.getElementById("podcast-row");
-  const quoteCol = document.getElementById("quote-col");
-  const bookCol = document.getElementById("book-col");
+  const podcastCol = document.createElement("div");
+            podcastCol.classList.add("col");
 
-  //    Function to fetch Podcast Data
+          podcastRow.innerHTML += "";
+          podcastCol.innerHTML += " ";
 
-  const getPodcast = () => {
-    searchBtn.addEventListener("click", (ev) => {
-      ev.preventDefault();
+            const podcastCard = document.createElement("div");
+            podcastCard.classList.add("card");
 
-      let podcastName = searchInput.value;
-      let podcastUrl = `https://mindforge-final-1.onrender.com/podcasts/`;
+            const podcastImage = document.createElement("img");
+            podcastImage.classList.add("card-img-top");
+            podcastImage.src = podcast.image;
+            podcastImage.alt = podcast.title;
+            console.log(podcastImage);
 
-      fetch(podcastUrl)
-        .then((resp) => resp.json())
-        .then((data) => {
-          // console.log(data);
-          // console.log( Object.keys.value)
-          data.forEach((podcast) => {
-            //   console.log(podcast.category);
+            const podcastBody = document.createElement("div");
+            podcastBody.classList.add("card-body");
 
-            if (podcast.category == podcastName) {
-              const podcastCol = document.createElement("div");
-              podcastCol.classList.add("col");
+            const podcastTitle = document.createElement("h5");
+            podcastTitle.classList.add("card-title");
+            podcastTitle.innerHTML = podcast.title;
+            const podcastDesc = document.createElement("p");
+            podcastDesc.classList.add("card-text");
+            podcastDesc.innerHTML = podcast.description;
+            console.log(podcastDesc);
 
-              const podcastCard = document.createElement("div");
-              podcastCard.classList.add("card");
+            podcastBody.appendChild(podcastTitle);
+            podcastBody.appendChild(podcastDesc);
 
-              const podcastImage = document.createElement("img");
-              podcastImage.classList.add("card-img-top");
-              podcastImage.src = podcast.image;
-              podcastImage.alt = podcast.title;
-              console.log(podcastImage);
+            podcastCard.appendChild(podcastImage);
+            podcastCard.appendChild(podcastBody);
 
-              const podcastBody = document.createElement("div");
-              podcastBody.classList.add("card-body");
+            podcastCol.appendChild(podcastCard);
+            podcastRow.appendChild(podcastCol);
+}
 
-              const podcastTitle = document.createElement("h5");
-              podcastTitle.classList.add("card-title");
-              podcastTitle.innerHTML = podcast.title;
-              const podcastDesc = document.createElement("p");
-              podcastDesc.classList.add("card-text");
-              podcastDesc.innerHTML = podcast.description;
-              console.log(podcastDesc);
+function showquoteDetails (quote) {
 
-              podcastBody.appendChild(podcastTitle);
-              podcastBody.appendChild(podcastDesc);
+  const quoteRow = document.getElementById("quote-row");
+  const quoteCol = document.createElement("div");
+            quoteCol.classList.add("col");
 
-              podcastCard.appendChild(podcastBody);
-              podcastCard.appendChild(podcastImage);
+          quoteRow.innerHTML += "";
+          quoteCol.innerHTML += " ";
 
-              podcastCol.appendChild(podcastCard);
-              podcastRow.appendChild(podcastCol);
-            }
-          });
-        });
-    });
-  };
+          const quoteCard = document.createElement("div");
+          quoteCard.classList.add("card")
 
-  const getQuote = () => {
-    searchBtn.addEventListener("click", (ev) => {
-      ev.preventDefault();
+          const quoteCardBody = document.createElement("div");
+          quoteCardBody.classList.add("card-body")
 
-      let quoteName = searchInput.value;
-      let quoteUrl = `https://mindforge-final-1.onrender.com/quotes/`;
+          const blockQuote = document.createElement("blockquote");
+          blockQuote.classList.add("blockquote");
 
-      if (quoteName.length <= 0) {
-        quoteCol.innerHtml = `
-            <div class="col" > 
-              <div class="card">
-                <div class="card-body">
-                  <h5 class="card-title" id="podcast-title">
-                   Please Enter a Category
-                  </h5>
-                </div>
-              </div>
-            </div> 
-            `;
-      }
+          const quotedetail = document.createElement("p");
+          quotedetail.innerHTML = quote.quote
+          const quoteAuthor = document.createElement("p");
+          quoteAuthor.classList.add("blockquote-footer");
+          quoteAuthor.innerHTML = quote.author;
 
-      //   If Input field is not empty
-      else {
-        fetch(quoteUrl)
-          .then((resp) => resp.json())
-          .then((data) => {
-            // console.log(data);
-            // console.log( Object.keys.value)
-            data.forEach((quote) => {
-              //   console.log(quote.category);
-              if (quote.category == quoteName) {
-                // console.log(quote);
+          blockQuote.appendChild(quotedetail);
+          blockQuote.appendChild(quoteAuthor);
 
-                quoteCol.innerHTML += `
+          quoteCardBody.appendChild(blockQuote);
+          quoteCard.appendChild(quoteCardBody);
 
-                  <div class="col">
-                             <div class="card">
-                              <div class="card-body" id="quote-body">
-                              <blockquote class="blockquote mb-0" id="quote-block">
-                                   <p>
-                                      ${quote.quote}
-                                    </p>
-                                  <p class="blockquote-footer">${quote.author}</p> 
-                                 </blockquote>
-                                  <a href="#" class="icon-box me-4">
-                                   <i class="ri-share-fill"></i>
-                                </a>
-                                </div>
-                              </div>
-                            </div>
+          quoteCol.appendChild(quoteCard);
+          quoteRow.appendChild(quoteCol);
 
-          `;
-              }
-            });
-          });
-      }
+}
 
-      //   searchBtn.reset();
-    });
-  };
+function showBookDetails (book) {
+  const bookRow = document.getElementById("book-row");
+  const bookCol = document.createElement("div");
+            bookCol.classList.add("col");
 
-  const getBook = () => {
-    searchBtn.addEventListener("click", (ev) => {
-      ev.preventDefault();
+          bookRow.innerHTML += "";
+          bookCol.innerHTML += " ";
 
-      let bookName = searchInput.value;
-      let bookUrl = `https://mindforge-final-1.onrender.com/books/`;
+            const bookCard = document.createElement("div");
+            bookCard.classList.add("card");
 
-      if (bookName.length <= 0) {
-        bookCol.innerHtml = `
-              <div class="col" > 
-                <div class="card">
-                  <div class="card-body">
-                    <h5 class="card-title" id="podcast-title">
-                     Please Enter a Category
-                    </h5>
-                  </div>
-                </div>
-              </div> 
-              `;
-      }
+            const bookImage = document.createElement("img");
+            bookImage.classList.add("card-img-top");
+            bookImage.src = book.image;
+            bookImage.alt = book.title;
+            console.log(bookImage);
 
-      //   If Input field is not empty
-      else {
-        fetch(bookUrl)
-          .then((resp) => resp.json())
-          .then((data) => {
-            // console.log(data);
-            // console.log( Object.keys.value)
-            data.forEach((book) => {
-              //   console.log(book.category);
-              if (book.category == bookName) {
-                // console.log(book);
+            const bookBody = document.createElement("div");
+            bookBody.classList.add("card-body");
 
-                bookCol.innerHTML += `
-  
-                  <div class="col">
-                              <div class="card">
-                               <img
-                                   src=${book.image}
-                                   alt=${book.title}
-                                 />
-                                 <div class="card-body">
-                                   <h5 class="card-title">
-                                       ${book.title}
-                                   </h5>
-                                   <p class="card-text">
-                                       ${book.summary}
-                                   </p>
-                                   <p class="blockquote-footer">${book.author}</p> 
-                                   <a href="#" class="icon-box me-4">
-                                       <i class="ri-amazon-fill"></i>
-                                   </a>
-                                   <a href="#" class="icon-box me-4">
-                                       <i class="ri-share-fill"></i>
-                                   </a>
-                                 </div>
-                               </div>
-                             </div>
-  
-            `;
-              }
-            });
-          });
-      }
+            const bookTitle = document.createElement("h5");
+            bookTitle.classList.add("card-title");
+            bookTitle.innerHTML = book.title;
+            const bookDesc = document.createElement("p");
+            bookDesc.classList.add("card-text");
+            bookDesc.innerHTML = book.description;
+            console.log(bookDesc);
 
-      // searchBtn.reset();
-    });
-  };
+            bookBody.appendChild(bookTitle);
+            bookBody.appendChild(bookDesc);
 
-  getPodcast();
-  getQuote();
-  getBook();
-});
+            bookCard.appendChild(bookImage);
+            bookCard.appendChild(bookBody);
+
+            bookCol.appendChild(bookCard);
+            bookRow.appendChild(bookCol);
+}
+
+runProgram()
