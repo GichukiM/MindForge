@@ -429,25 +429,29 @@
                 "id": 1,
                 "title": "The 5 Love Languages: The Secret to Love That Lasts",
                 "author": "Gary Chapman",
-                "summary": "This book explores the concept that people express and experience love in different ways. By understanding your partner's love language, you can improve communication, deepen intimacy, and build a stronger relationship."
+                "summary": "This book explores the concept that people express and experience love in different ways. By understanding your partner's love language, you can improve communication, deepen intimacy, and build a stronger relationship.",
+                "image": "https://t.ly/IVGwA"
             },
             {
                 "id": 2,
                 "title": "Men Are from Mars, Women Are from Venus",
                 "author": "John Gray",
-                "summary": "John Gray discusses the fundamental differences between men and women in relationships and offers practical advice on how to navigate communication, understanding, and connection between the sexes."
+                "summary": "John Gray discusses the fundamental differences between men and women in relationships and offers practical advice on how to navigate communication, understanding, and connection between the sexes.",
+                "image": "https://t.ly/zWTH1"
             },
             {
                 "id": 3,
                 "title": "Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love",
                 "author": "Amir Levine, Rachel Heller",
-                "summary": "Based on attachment theory, this book explores how people form and maintain romantic relationships. It provides insights into attachment styles and offers guidance on creating secure and fulfilling relationships."
+                "summary": "Based on attachment theory, this book explores how people form and maintain romantic relationships. It provides insights into attachment styles and offers guidance on creating secure and fulfilling relationships.",
+                "image": "https://t.ly/pwYzB"
             },
             {
                 "id": 4,
                 "title": "The Seven Principles for Making Marriage Work",
                 "author": "John Gottman, Nan Silver",
-                "summary": "John Gottman, a renowned relationship expert, presents seven principles backed by research to help couples strengthen their marriage and resolve conflicts effectively. This book offers practical strategies for building trust, intimacy, and long-lasting love."
+                "summary": "John Gottman, a renowned relationship expert, presents seven principles backed by research to help couples strengthen their marriage and resolve conflicts effectively. This book offers practical strategies for building trust, intimacy, and long-lasting love.",
+                "image": "https://t.ly/3JdcI"
             }
         ],
         "productivity": [
@@ -455,25 +459,29 @@
                 "id": 1,
                 "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
                 "author": "James Clear",
-                "summary": "James Clear presents a comprehensive guide to building good habits and breaking bad ones. He emphasizes the power of small changes, or 'atomic habits,' and provides practical strategies backed by scientific research to help readers improve their productivity and achieve their goals."
+                "summary": "James Clear presents a comprehensive guide to building good habits and breaking bad ones. He emphasizes the power of small changes, or 'atomic habits,' and provides practical strategies backed by scientific research to help readers improve their productivity and achieve their goals.",
+                "image": "https://t.ly/uKBah"
             },
             {
                 "id": 2,
                 "title": "Deep Work: Rules for Focused Success in a Distracted World",
                 "author": "Cal Newport",
-                "summary": "Cal Newport argues that deep, focused work is the key to success in today's knowledge economy. He provides strategies for cultivating deep work habits and minimizing distractions to maximize productivity and achieve remarkable results."
+                "summary": "Cal Newport argues that deep, focused work is the key to success in today's knowledge economy. He provides strategies for cultivating deep work habits and minimizing distractions to maximize productivity and achieve remarkable results.",
+                "image": "https://t.ly/HXPTk"
             },
             {
                 "id": 3,
                 "title": "Getting Things Done: The Art of Stress-Free Productivity",
                 "author": "David Allen",
-                "summary": "David Allen introduces the GTD (Getting Things Done) methodology for organizing tasks and projects. He offers practical techniques for clearing mental clutter, increasing efficiency, and achieving stress-free productivity."
+                "summary": "David Allen introduces the GTD (Getting Things Done) methodology for organizing tasks and projects. He offers practical techniques for clearing mental clutter, increasing efficiency, and achieving stress-free productivity.",
+                "image": "https://t.ly/ALtIt"
             },
             {
                 "id": 4,
                 "title": "Essentialism: The Disciplined Pursuit of Less",
                 "author": "Greg McKeown",
-                "summary": "Greg McKeown advocates for the principle of essentialism—the disciplined pursuit of less but better. He explores how focusing on what truly matters can lead to greater clarity, effectiveness, and fulfillment in work and life."
+                "summary": "Greg McKeown advocates for the principle of essentialism—the disciplined pursuit of less but better. He explores how focusing on what truly matters can lead to greater clarity, effectiveness, and fulfillment in work and life.",
+                "image": "https://t.ly/vjZSM"
             }
         ],
         "life story": [
@@ -481,25 +489,29 @@
                 "id": 1,
                 "title": "Educated",
                 "author": "Tara Westover",
-                "summary": "This memoir tells the story of Tara Westover's journey from growing up in a strict and isolated survivalist family to earning a PhD from Cambridge University. It's a powerful account of resilience, self-discovery, and the pursuit of education against all odds."
+                "summary": "This memoir tells the story of Tara Westover's journey from growing up in a strict and isolated survivalist family to earning a PhD from Cambridge University. It's a powerful account of resilience, self-discovery, and the pursuit of education against all odds.",
+                "image": "https://t.ly/vCz4e"
             },
             {
                 "id": 2,
                 "title": "Becoming",
                 "author": "Michelle Obama",
-                "summary": "Michelle Obama shares her deeply personal and inspiring journey from her childhood on the South Side of Chicago to becoming the First Lady of the United States. With honesty and grace, she reflects on her experiences, challenges, and aspirations."
+                "summary": "Michelle Obama shares her deeply personal and inspiring journey from her childhood on the South Side of Chicago to becoming the First Lady of the United States. With honesty and grace, she reflects on her experiences, challenges, and aspirations.",
+                "image": "https://rb.gy/5ua3kf"
             },
             {
                 "id": 3,
                 "title": "Born a Crime: Stories from a South African Childhood",
                 "author": "Trevor Noah",
-                "summary": "Trevor Noah recounts his remarkable childhood growing up in South Africa during apartheid and the challenges he faced being mixed-race in a divided society. With humor and insight, he shares stories of resilience, identity, and finding humor in adversity."
+                "summary": "Trevor Noah recounts his remarkable childhood growing up in South Africa during apartheid and the challenges he faced being mixed-race in a divided society. With humor and insight, he shares stories of resilience, identity, and finding humor in adversity.",
+                "image": "https://rb.gy/hr3vxm"
             },
             {
                 "id": 4,
                 "title": "The Glass Castle: A Memoir",
                 "author": "Jeannette Walls",
-                "summary": "Jeannette Walls chronicles her unconventional upbringing with parents who were nomadic and often struggled with poverty and substance abuse. Despite the hardships, she finds strength and resilience, ultimately forging her own path to success."
+                "summary": "Jeannette Walls chronicles her unconventional upbringing with parents who were nomadic and often struggled with poverty and substance abuse. Despite the hardships, she finds strength and resilience, ultimately forging her own path to success.",
+                "image": "https://rb.gy/fd9frz"
             }
         ],
         "success habits": [
@@ -507,25 +519,29 @@
                 "id": 1,
                 "title": "The 7 Habits of Highly Effective People",
                 "author": "Stephen R. Covey",
-                "summary": "Stephen Covey presents a holistic approach to personal and professional effectiveness based on timeless principles. Through his seven habits, he guides readers on a journey of self-mastery, interpersonal effectiveness, and continuous improvement."
+                "summary": "Stephen Covey presents a holistic approach to personal and professional effectiveness based on timeless principles. Through his seven habits, he guides readers on a journey of self-mastery, interpersonal effectiveness, and continuous improvement.",
+                "image": "https://rb.gy/axlxby"
             },
             {
                 "id": 2,
                 "title": "Mindset: The New Psychology of Success",
                 "author": "Carol S. Dweck",
-                "summary": "Carol Dweck explores the concept of mindset—the belief system that shapes our attitudes, behaviors, and outcomes. She discusses the differences between a fixed mindset and a growth mindset, offering insights into how mindset influences success and fulfillment."
+                "summary": "Carol Dweck explores the concept of mindset—the belief system that shapes our attitudes, behaviors, and outcomes. She discusses the differences between a fixed mindset and a growth mindset, offering insights into how mindset influences success and fulfillment.",
+                "image": "https://rb.gy/ltnspi"
             },
             {
                 "id": 3,
                 "title": "Think and Grow Rich",
                 "author": "Napoleon Hill",
-                "summary": "Napoleon Hill distills the principles of success from interviews with over 500 wealthy individuals, including Andrew Carnegie and Thomas Edison. This timeless classic explores the power of mindset, desire, and persistence in achieving wealth and success."
+                "summary": "Napoleon Hill distills the principles of success from interviews with over 500 wealthy individuals, including Andrew Carnegie and Thomas Edison. This timeless classic explores the power of mindset, desire, and persistence in achieving wealth and success.",
+                "image": "https://rb.gy/io7w33"
             },
             {
                 "id": 4,
                 "title": "The Power of Habit: Why We Do What We Do in Life and Business",
                 "author": "Charles Duhigg",
-                "summary": "Charles Duhigg delves into the science of habit formation and transformation. He explores how habits shape our lives and provides insights into how individuals and organizations can harness the power of habits to achieve lasting change."
+                "summary": "Charles Duhigg delves into the science of habit formation and transformation. He explores how habits shape our lives and provides insights into how individuals and organizations can harness the power of habits to achieve lasting change.",
+                "image": "https://rb.gy/onamuo"
             }
         ],
         "manifestation": [
@@ -533,25 +549,29 @@
                 "id": 1,
                 "title": "The Power of Now: A Guide to Spiritual Enlightenment",
                 "author": "Eckhart Tolle",
-                "summary": "Eckhart Tolle shares insights and practices to help readers live in the present moment and transcend the limitations of the egoic mind. By cultivating mindfulness and awareness, he argues that individuals can experience inner peace, fulfillment, and a deeper connection to life."
+                "summary": "Eckhart Tolle shares insights and practices to help readers live in the present moment and transcend the limitations of the egoic mind. By cultivating mindfulness and awareness, he argues that individuals can experience inner peace, fulfillment, and a deeper connection to life.",
+                "image": "https://rb.gy/50np1x"
             },
             {
                 "id": 2,
                 "title": "The Secret",
                 "author": "Rhonda Byrne",
-                "summary": "Rhonda Byrne explores the law of attraction and its potential to manifest desires into reality. Through anecdotes, quotes, and exercises, she encourages readers to harness the power of positive thinking and visualization to create the life they desire."
+                "summary": "Rhonda Byrne explores the law of attraction and its potential to manifest desires into reality. Through anecdotes, quotes, and exercises, she encourages readers to harness the power of positive thinking and visualization to create the life they desire.",
+                "image": "https://rb.gy/hd43hj"
             },
             {
                 "id": 3,
                 "title": "Big Magic: Creative Living Beyond Fear",
                 "author": "Elizabeth Gilbert",
-                "summary": "Elizabeth Gilbert shares insights and inspiration to unleash creativity and pursue a fulfilling creative life. She explores the obstacles and fears that can hinder creative expression and offers guidance on embracing curiosity, courage, and persistence."
+                "summary": "Elizabeth Gilbert shares insights and inspiration to unleash creativity and pursue a fulfilling creative life. She explores the obstacles and fears that can hinder creative expression and offers guidance on embracing curiosity, courage, and persistence.",
+                "image": "https://rb.gy/9tclun"
             },
             {
                 "id": 4,
                 "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
                 "author": "Jen Sincero",
-                "summary": "Jen Sincero offers a blend of humor, practical advice, and motivational insights to help readers overcome self-doubt and live a life of abundance and fulfillment. Through personal stories and exercises, she empowers readers to embrace their inner badass and create the life they desire."
+                "summary": "Jen Sincero offers a blend of humor, practical advice, and motivational insights to help readers overcome self-doubt and live a life of abundance and fulfillment. Through personal stories and exercises, she empowers readers to embrace their inner badass and create the life they desire.",
+                "image": "https://shorturl.at/gGUX9"
             }
         ],
         "confidence": [
@@ -559,51 +579,59 @@
                 "id": 1,
                 "title": "The Confidence Code: The Science and Art of Self-Assurance—What Women Should Know",
                 "author": "Katty Kay, Claire Shipman",
-                "summary": "Drawing on research from neuroscience, psychology, and personal anecdotes, Katty Kay and Claire Shipman explore the concept of confidence and its importance in personal and professional success. They provide actionable strategies for building confidence and overcoming self-doubt."
+                "summary": "Drawing on research from neuroscience, psychology, and personal anecdotes, Katty Kay and Claire Shipman explore the concept of confidence and its importance in personal and professional success. They provide actionable strategies for building confidence and overcoming self-doubt.",
+                "image": "https://shorturl.at/bozOT"
             },
             {
                 "id": 2,
                 "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges",
                 "author": "Amy Cuddy",
-                "summary": "Amy Cuddy examines the power of presence—the ability to express one's true self and engage authentically in challenging situations. Through research and personal stories, she offers insights and techniques to cultivate presence and confidence in various aspects of life."
+                "summary": "Amy Cuddy examines the power of presence—the ability to express one's true self and engage authentically in challenging situations. Through research and personal stories, she offers insights and techniques to cultivate presence and confidence in various aspects of life.",
+                "image": "https://shorturl.at/fotC6"
             },
             {
                 "id": 3,
                 "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
                 "author": "Brené Brown",
-                "summary": "Brené Brown explores the transformative power of vulnerability in relationships, leadership, and personal growth. She challenges the notion that vulnerability is a weakness and offers insights into how embracing vulnerability can lead to greater connection, courage, and authenticity."
+                "summary": "Brené Brown explores the transformative power of vulnerability in relationships, leadership, and personal growth. She challenges the notion that vulnerability is a weakness and offers insights into how embracing vulnerability can lead to greater connection, courage, and authenticity.",
+                "image": "https://shorturl.at/bCQU9"
             },
             {
                 "id": 4,
                 "title": "The Confidence Gap: A Guide to Overcoming Fear and Self-Doubt",
                 "author": "Russ Harris",
-                "summary": "Russ Harris presents strategies from acceptance and commitment therapy (ACT) to help readers overcome self-doubt and build confidence. Through practical exercises and mindfulness techniques, he guides readers on a journey of self-discovery and empowerment."
+                "summary": "Russ Harris presents strategies from acceptance and commitment therapy (ACT) to help readers overcome self-doubt and build confidence. Through practical exercises and mindfulness techniques, he guides readers on a journey of self-discovery and empowerment.",
+                "image": "https://shorturl.at/rCDE6"
             }
         ],
         "money": [
             {
                 "id": 1,
-                "title": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
-                "author": "Robert T. Kiyosaki",
-                "summary": "In this personal finance classic, Robert Kiyosaki shares the financial lessons he learned from his 'rich dad' and his 'poor dad.' He challenges conventional wisdom about money and investing, offering practical insights and mindset shifts to help readers achieve financial independence."
+                "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
+                "author": "Morgan Housel",
+                "summary": "The Psychology of Money delves into the complex relationship between individuals and money, exploring the psychological and behavioral aspects that influence financial decisions. Housel combines insights from psychology, economics, and personal finance to offer timeless lessons on wealth accumulation, managing greed, and finding happiness through a deeper understanding of money. The book provides valuable insights into how emotions, biases, and societal influences impact financial behavior, offering readers practical guidance for building a healthier and more fulfilling relationship with money.",
+                "image": "https://rb.gy/txcunt"
             },
             {
                 "id": 2,
                 "title": "The Millionaire Next Door: The Surprising Secrets of America's Wealthy",
                 "author": "Thomas J. Stanley, William D. Danko",
-                "summary": "Thomas Stanley and William Danko examine the habits and characteristics of millionaires in America. Through research and interviews, they reveal surprising insights into how ordinary people accumulate wealth and achieve financial success."
+                "summary": "Thomas Stanley and William Danko examine the habits and characteristics of millionaires in America. Through research and interviews, they reveal surprising insights into how ordinary people accumulate wealth and achieve financial success.",
+                "image": "https://rb.gy/rmldyt"
             },
             {
                 "id": 3,
                 "title": "I Will Teach You to Be Rich",
                 "author": "Ramit Sethi",
-                "summary": "Ramit Sethi offers a six-week personal finance program to help readers take control of their finances and build wealth. He covers topics such as saving, investing, budgeting, and negotiating, providing practical advice for achieving financial freedom."
+                "summary": "Ramit Sethi offers a six-week personal finance program to help readers take control of their finances and build wealth. He covers topics such as saving, investing, budgeting, and negotiating, providing practical advice for achieving financial freedom.",
+                "image": "https://rb.gy/gw8zuf"
             },
             {
                 "id": 4,
                 "title": "The Total Money Makeover: A Proven Plan for Financial Fitness",
                 "author": "Dave Ramsey",
-                "summary": "Dave Ramsey presents a step-by-step plan for getting out of debt, building wealth, and achieving financial freedom. With practical advice and motivational insights, he guides readers on a journey to financial peace and security."
+                "summary": "Dave Ramsey presents a step-by-step plan for getting out of debt, building wealth, and achieving financial freedom. With practical advice and motivational insights, he guides readers on a journey to financial peace and security.",
+                "image": "https://rb.gy/3hxbnk"
             }
         ]
     }
