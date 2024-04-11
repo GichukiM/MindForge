@@ -1,158 +1,196 @@
 document.addEventListener("DOMContentLoaded", () => {
   const searchInput = document.getElementById("search-input");
   const searchBtn = document.getElementById("search-btn");
+  const podcastRow = document.getElementById("podcast-row");
+  const quoteCol = document.getElementById("quote-col");
+  const bookCol = document.getElementById("book-col");
 
-//   searchBtn.addEventListener("clicked", () => {
+  //    Function to fetch Podcast Data
 
-    // console.log("clicked");
+  const getPodcast = () => {
+    searchBtn.addEventListener("click", (ev) => {
+      ev.preventDefault();
 
-    // PODCAST
+      let podcastName = searchInput.value;
+      let podcastUrl = `https://mindforge-final-1.onrender.com/podcasts/`;
 
-  fetch("http://localhost:3000/podcasts")
-    .then((resp) => resp.json())
-    .then((data) => {
+      fetch(podcastUrl)
+        .then((resp) => resp.json())
+        .then((data) => {
+          // console.log(data);
+          // console.log( Object.keys.value)
+          data.forEach((podcast) => {
+            //   console.log(podcast.category);
 
-        // let searchInput = "productivity"
-        let searchValue = "productivity";
+            if (podcast.category == podcastName) {
+              const podcastCol = document.createElement("div");
+              podcastCol.classList.add("col");
 
-        // let relationships = Object.keys(data)[0];
-        // let productivity = Object.values(data)[1];
-        // let lifeStories = Object.values(data)[2];
-        // let successHabits = Object.values(data)[3];
-        // let manifestation = Object.values(data)[4]
-        // let confidence = Object.values(data)[5];
+              const podcastCard = document.createElement("div");
+              podcastCard.classList.add("card");
 
-        // let money = Object.keys(data)[6];
+              const podcastImage = document.createElement("img");
+              podcastImage.classList.add("card-img-top");
+              podcastImage.src = podcast.image;
+              podcastImage.alt = podcast.title;
+              console.log(podcastImage);
 
-        // console.log(relationships);
+              const podcastBody = document.createElement("div");
+              podcastBody.classList.add("card-body");
 
+              const podcastTitle = document.createElement("h5");
+              podcastTitle.classList.add("card-title");
+              podcastTitle.innerHTML = podcast.title;
+              const podcastDesc = document.createElement("p");
+              podcastDesc.classList.add("card-text");
+              podcastDesc.innerHTML = podcast.description;
+              console.log(podcastDesc);
 
-        // if (relationships === "relationships") {
+              podcastBody.appendChild(podcastTitle);
+              podcastBody.appendChild(podcastDesc);
 
-      Object.values(data)[0].forEach(category => {
-        console.log(category);
-        console.log(category.image);
+              podcastCard.appendChild(podcastBody);
+              podcastCard.appendChild(podcastImage);
 
-        const podcastCol = document.getElementById("podcast-col");
-
-        podcastCol.innerHTML += `
-        
-        <div class="col" > 
-            <div class="card">
-              <img
-                src="${category.image}"
-                alt="${category.title}"
-              />
-              <div class="card-body">
-                <h5 class="card-title" id="podcast-title">
-                  ${category.title}
-                </h5>
-                <p class="card-text">
-                  ${category.description}
-                </p>
-                <a href="${category.link}" target="_blank" class="icon-box me-4">
-                <i class="ri-youtube-fill"></i>
-                </a>
-                <a href="#" class="icon-box me-4">
-                  <i class="ri-share-fill"></i>
-                </a>
-              </div>
-            </div>
-          </div> 
-
-        `
-        
-      });
-    // }
-    })
-    .catch(err => {
-        console.log(err, "error")
+              podcastCol.appendChild(podcastCard);
+              podcastRow.appendChild(podcastCol);
+            }
+          });
+        });
     });
+  };
 
+  const getQuote = () => {
+    searchBtn.addEventListener("click", (ev) => {
+      ev.preventDefault();
 
-// QUOTES
+      let quoteName = searchInput.value;
+      let quoteUrl = `https://mindforge-final-1.onrender.com/quotes/`;
 
-fetch("http://localhost:3000/quotes")
-.then((resp) => resp.json())
-.then((data) => {
-
-    Object.values(data)[0].forEach(category => {
-        console.log(category);
-        console.log(category.quote);
-
-
-        const quoteCol = document.getElementById("quote-col");
-
-        quoteCol.innerHTML += `
-        
-        <div class="col">
-            <div class="card">
-              <div class="card-body" id="quote-body">
-                <blockquote class="blockquote mb-0" id="quote-block">
-                  <p>
-                    ${category.quote}
-                  </p>
-                  <p class="blockquote-footer">${category.author}</p> 
-                </blockquote>
-                <a href="#" class="icon-box me-4">
-                  <i class="ri-share-fill"></i>
-                </a>
+      if (quoteName.length <= 0) {
+        quoteCol.innerHtml = `
+            <div class="col" > 
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title" id="podcast-title">
+                   Please Enter a Category
+                  </h5>
+                </div>
               </div>
-            </div>
-          </div>
+            </div> 
+            `;
+      }
 
-        `
+      //   If Input field is not empty
+      else {
+        fetch(quoteUrl)
+          .then((resp) => resp.json())
+          .then((data) => {
+            // console.log(data);
+            // console.log( Object.keys.value)
+            data.forEach((quote) => {
+              //   console.log(quote.category);
+              if (quote.category == quoteName) {
+                // console.log(quote);
 
-})
+                quoteCol.innerHTML += `
 
+                  <div class="col">
+                             <div class="card">
+                              <div class="card-body" id="quote-body">
+                              <blockquote class="blockquote mb-0" id="quote-block">
+                                   <p>
+                                      ${quote.quote}
+                                    </p>
+                                  <p class="blockquote-footer">${quote.author}</p> 
+                                 </blockquote>
+                                  <a href="#" class="icon-box me-4">
+                                   <i class="ri-share-fill"></i>
+                                </a>
+                                </div>
+                              </div>
+                            </div>
+
+          `;
+              }
+            });
+          });
+      }
+
+      //   searchBtn.reset();
+    });
+  };
+
+  const getBook = () => {
+    searchBtn.addEventListener("click", (ev) => {
+      ev.preventDefault();
+
+      let bookName = searchInput.value;
+      let bookUrl = `https://mindforge-final-1.onrender.com/books/`;
+
+      if (bookName.length <= 0) {
+        bookCol.innerHtml = `
+              <div class="col" > 
+                <div class="card">
+                  <div class="card-body">
+                    <h5 class="card-title" id="podcast-title">
+                     Please Enter a Category
+                    </h5>
+                  </div>
+                </div>
+              </div> 
+              `;
+      }
+
+      //   If Input field is not empty
+      else {
+        fetch(bookUrl)
+          .then((resp) => resp.json())
+          .then((data) => {
+            // console.log(data);
+            // console.log( Object.keys.value)
+            data.forEach((book) => {
+              //   console.log(book.category);
+              if (book.category == bookName) {
+                // console.log(book);
+
+                bookCol.innerHTML += `
+  
+                  <div class="col">
+                              <div class="card">
+                               <img
+                                   src=${book.image}
+                                   alt=${book.title}
+                                 />
+                                 <div class="card-body">
+                                   <h5 class="card-title">
+                                       ${book.title}
+                                   </h5>
+                                   <p class="card-text">
+                                       ${book.summary}
+                                   </p>
+                                   <p class="blockquote-footer">${book.author}</p> 
+                                   <a href="#" class="icon-box me-4">
+                                       <i class="ri-amazon-fill"></i>
+                                   </a>
+                                   <a href="#" class="icon-box me-4">
+                                       <i class="ri-share-fill"></i>
+                                   </a>
+                                 </div>
+                               </div>
+                             </div>
+  
+            `;
+              }
+            });
+          });
+      }
+
+      // searchBtn.reset();
+    });
+  };
+
+  getPodcast();
+  getQuote();
+  getBook();
 });
-
-
-// BOOKS \\
-
-fetch("http://localhost:3000/books")
-.then((resp) => resp.json())
-.then((data) => {
-
-    Object.values(data)[6].forEach(category => {
-        console.log(category);
-        console.log(category.summary);
-
-
-        const bookCol = document.getElementById("book-col");
-
-        bookCol.innerHTML += `
-        
-        <div class="col">
-            <div class="card">
-              <img
-                src=${category.image}
-                alt=${category.title}
-              />
-              <div class="card-body">
-                <h5 class="card-title">
-                    ${category.title}
-                </h5>
-                <p class="card-text">
-                    ${category.summary}
-                </p>
-                <p class="blockquote-footer">${category.author}</p> 
-                <a href="#" class="icon-box me-4">
-                    <i class="ri-amazon-fill"></i>
-                </a>
-                <a href="#" class="icon-box me-4">
-                    <i class="ri-share-fill"></i>
-                </a>
-              </div>
-            </div>
-          </div>
-
-        `
-    })
-})
-
-
-
-// });
-
-})

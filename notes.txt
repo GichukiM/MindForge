@@ -1,0 +1,181 @@
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  const searchInput = document.getElementById("search-input");
+  const searchBtn = document.getElementById("search-btn");
+
+  searchBtn.addEventListener("click", (ev) => {
+
+ev.preventDefault();
+
+let searchInputValue = searchInput.value;
+
+    // PODCAST
+
+  fetch(`http://localhost:3000/podcasts/`)
+    .then((resp) => resp.json())
+    .then((podcasts) => {
+
+        console.log(searchInputValue);
+        
+      podcasts.forEach(podcast => {
+        // console.log(podcasts.category === "productivity");
+        // console.log(podcast.category.;
+
+        if (podcast.category.value === searchInputValue) {
+
+        const podcastCol = document.getElementById("podcast-col");
+
+        podcastCol.innerHTML += `
+        
+        <div class="col" > 
+            <div class="card">
+              <img
+                src="${podcast.image}"
+                alt="${podcast.title}"
+              />
+              <div class="card-body">
+                <h5 class="card-title" id="podcast-title">
+                  ${podcast.title}
+                </h5>
+                <p class="card-text">
+                  ${podcast.description}
+                </p>
+                <a href="${podcast.link}" target="_blank" class="icon-box me-4">
+                <i class="ri-youtube-fill"></i>
+                </a>
+                <a href="#" class="icon-box me-4">
+                  <i class="ri-share-fill"></i>
+                </a>
+              </div>
+            </div>
+          </div> 
+
+        `
+        
+    //   });
+    }
+    });
+  });
+});
+
+
+// QUOTES
+
+// fetch("http://localhost:3000/quotes")
+// .then((resp) => resp.json())
+// .then((data) => {
+
+//     Object.values(data)[0].forEach(category => {
+//         // console.log(category);
+//         // console.log(category.quote);
+
+
+//         const quoteCol = document.getElementById("quote-col");
+
+//         quoteCol.innerHTML += `
+        
+//         <div class="col">
+//             <div class="card">
+//               <div class="card-body" id="quote-body">
+//                 <blockquote class="blockquote mb-0" id="quote-block">
+//                   <p>
+//                     ${category.quote}
+//                   </p>
+//                   <p class="blockquote-footer">${category.author}</p> 
+//                 </blockquote>
+//                 <a href="#" class="icon-box me-4">
+//                   <i class="ri-share-fill"></i>
+//                 </a>
+//               </div>
+//             </div>
+//           </div>
+
+//         `
+
+// })
+
+// });
+
+
+// // BOOKS \\
+
+// fetch("http://localhost:3000/books")
+// .then((resp) => resp.json())
+// .then((data) => {
+
+//     Object.values(data)[6].forEach(category => {
+//         // console.log(category);
+//         // console.log(category.summary);
+
+
+//         const bookCol = document.getElementById("book-col");
+
+//         bookCol.innerHTML += `
+        
+//         <div class="col">
+//             <div class="card">
+//               <img
+//                 src=${category.image}
+//                 alt=${category.title}
+//               />
+//               <div class="card-body">
+//                 <h5 class="card-title">
+//                     ${category.title}
+//                 </h5>
+//                 <p class="card-text">
+//                     ${category.summary}
+//                 </p>
+//                 <p class="blockquote-footer">${category.author}</p> 
+//                 <a href="#" class="icon-box me-4">
+//                     <i class="ri-amazon-fill"></i>
+//                 </a>
+//                 <a href="#" class="icon-box me-4">
+//                     <i class="ri-share-fill"></i>
+//                 </a>
+//               </div>
+//             </div>
+//           </div>
+
+//         `
+//     })
+// })
+
+
+
+// });
+
+});
+
+
+      //       if (podcast.category == podcastName) {
+        //         // console.log(podcast);
+
+        //         podcastCol.innerHTML += `
+        
+        // <div class="col" > 
+        //     <div class="card">
+        //       <img
+        //         src="${podcast.image}"
+        //         alt="${podcast.title}"
+        //       />
+        //       <div class="card-body">
+        //         <h5 class="card-title" id="podcast-title">
+        //           ${podcast.title}
+        //         </h5>
+        //         <p class="card-text">
+        //           ${podcast.description}
+        //         </p>
+        //         <a href="${podcast.link}" target="_blank" class="icon-box me-4">
+        //         <i class="ri-youtube-fill"></i>
+        //         </a>
+        //         <a href="#" class="icon-box me-4">
+        //           <i class="ri-share-fill"></i>
+        //         </a>
+        //       </div>
+        //     </div>
+        //   </div> 
+
+        // `;
+        //       };

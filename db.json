@@ -1,638 +1,680 @@
 {
-    "podcasts": {
-        "relationships": [
-            {
-                "id": 1,
-                "title": "Is your relationship worth saving?",
-                "description": "Psychotherapist and New York Times bestselling author Esther Perel is back. Esther is recognized as one of today’s most insightful and original voices on modern relationships. If you've ever wondered when a relationship is worth saving or why we grieve after a breakup, Esther has incredible insights to share that you can apply to your own relationship. Let's discover the power of accountability in relationships and how it can trigger positive change!",
-                "link": "https://youtu.be/OkgtwMxbnLw?si=7OVqF_qlKV5qJidw",
-                "host": "Jay Shetty",
-                "guest": "Esther Perell",
-                "image": "https://rb.gy/romt48"
-            },
-            {
-                "id": 2,
-                "title": "The Biggest Red Flags",
-                "description": "Want to have more love and improve your modern relationship? This is for you! Expert in psychodynamic therapy and relationship specialist Sadia Khan breaks down the dynamics of modern dating!With her wealth of expertise in relationships and personal growth, Sadia Khan has been a beacon of guidance for all those seeking love and companionship.",
-                "link": "https://youtu.be/jfVH7rE_rF0?si=LgI-qo7s0RfyOqzG",
-                "host": "Lewis Howes",
-                "guest": "Michael Brown",
-                "image": "https://rb.gy/zglzvo"
-            },
-            {
-                "id": 3,
-                "title": "Do this today to find lasting love!",
-                "description": "Today we have a special guest, Pastor Michael Todd, who is a renowed spiritual leader and relationship expert. He and his wife, Natalie, have been leading Transformation Church in Tulsa, Oklahoma, since 2015. They are known for their impactful teaching on relationships, marrieage, and personal growth.",
-                "link": "https://youtu.be/JNcZBaVMXS8?si=cNV0dwjc05ZytJGM",
-                "host": "Lewis Howes",
-                "guest": "Mike Todd",
-                "image": "https://rb.gy/zglzvo"
-            },
-            {
-                "id": 4,
-                "title": "4 simple rules for the perfect relationship",
-                "description": "Want to improve your relationship? Jay Shetty shares his top 4 rules on how to have the perfect relationship. ay Shetty is an English author, life coach and viral content creator, he lived and trained as a monk for 3 years. His ‘On Purpose’ podcast has received over 300 million downloads",
-                "link": "https://youtu.be/zQ73nO1CjBU?si=ANzFvETQWa0mEtnC",
-                "host": "Steven Bartlet",
-                "guest": "Jay Shetty",
-                "image": "https://rb.gy/mbg228"
-            }
-        ],
-        "productivity": [
-            {
-                "id": 1,
-                "title": "The Productivity Blueprint",
-                "description": "In this episode, former medical doctor turned productivity expert and YouTube star Ali Abdaal is about to flip that script about what you thought you knew about productivity. In his new book, Feel-Good Productivity, he reveals a refreshing and uplifting approach to success, one that's rooted in joy and well-being rather than stress and grind. We dive into that strategy and much more!",
-                "link": "https://youtu.be/fb_SQe51UCk?si=0-L5HOh-U093llRG",
-                "host": "Lewis Howes",
-                "guest": "Ali Abdaal",
-                "image": "https://rb.gy/zglzvo"
-            },
-            {
-                "id": 2,
-                "title": "How to Enhance Focus and Improve Productivity",
-                "description": "In this episode, my guest is Dr. Cal Newport, Ph.D., a professor of computer science at Georgetown University and bestselling author of numerous books on focus and productivity and how to access the deepest possible layers of your cognitive abilities in order to do quality work and lead a more balanced life. We discuss how to avoid digital distraction, specific systems to best arrange and update your schedule, and how to curate your work and home environment. We discuss how to engage with smartphones and technology, the significant productivity cost of task-switching, and how to avoid and overcome burnout. This episode provides specific protocols for enhancing focus and productivity, time management, task prioritization, and improving work-life balance that ought to be useful for anyone, young or old, regardless of profession.",
-                "link": "https://youtu.be/p4ZfkezDTXQ?si=pQvvnJGzupKLBNVV",
-                "host": "Andrew Huberman",
-                "guest": "Dr Cal Newport",
-                "image": "https://rb.gy/igy4ok"
-            },
-            {
-                "id": 3,
-                "title": "The #1 Hack for being more productive tomorrow",
-                "description": "In this episode, we are talking about the #1 thing you can do to make sure tomorrow is a #productive and awesome day.I’m sure you know the importance of a good #morningroutine. But what you may not know is that a rock-solid #morning routine – the kind that kickstarts you and your day for maximum #focus and to feel more in control, calm, and like the rockstar that you are. It doesn’t start where you think. If you truly want to own your day, you must first own the night before. This episode is packed with research-backed tactics, specific advice, and the four science-backed components of the best evening routine..",
-                "link": "https://youtu.be/eCsXE4Dlulg?si=EPOlOlaHlk2qJ4Fi",
-                "host": "Mel Robbins",
-                "guest": "Mel Robbins",
-                "image": "https://rb.gy/tugk8y"
-            },
-            {
-                "id": 4,
-                "title": "Unlock the sectrets of your mind, Boost productivity & reduce Stress",
-                "description": "Daily tips and habits to master your time, focus, and productivity for success.",
-                "link": "https://youtu.be/l5WybwqCZic?si=O4ajIOKVf7M4hfvm",
-                "host": "Steven Bartlet",
-                "guest": "Yung Pueblo",
-                "image": "https://rb.gy/mbg228"
-            }
-        ],
-        "life stories": [
-            {
-                "id": 1,
-                "title": "17 Raw Lessons about Human Nature",
-                "description": "Heartfelt stories of resilience, courage, and triumph from individuals who overcame adversity.",
-                "link": "https://youtu.be/JBgwF8aHByI?si=cvS65DrEP8trY5tB",
-                "host": "Chris Williamson",
-                "guest": "Steven Bartlett",
-                "image": "https://shorturl.at/eopYZ"
-            },
-            {
-                "id": 2,
-                "title": "Man VS Failure, Anxiety & Imposter Syndrome ",
-                "description": "Bear Grylls is a British adventurer and television host who has been an international sensation of survival shows for twenty years. The host of Man vs. Wild, You vs. Wild, Running Wild, The Island, and the author of Mud, Sweat and Tears and over twenty other books, he's come in to talk to us about his new book - Never Give Up. ",
-                "link": "https://youtu.be/V6mZJRb9MZY?si=oaokYBFcw0FX9uPu",
-                "host": "Steven Bartlet",
-                "guest": "Bear Grylls",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 3,
-                "title": "The Man Who Followed Elon Musk Everywhere: 7 Elon Secrets!",
-                "description": "If you ever wanted to see inside the mind of the riches and most powerful man in the world, this episode is for you.",
-                "link": "https://youtu.be/9BDmC5u_MLE?si=PFGMbgJbJWYgPV79",
-                "host": "Steven Bartlet",
-                "guest": "Walter Isaacson",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 4,
-                "title": "Victimhood & Self-sabotage Is Destroying The World In 2022",
-                "description": "Africa Brooke is a speaker and podcast host, who has built a community that has helped hundreds of thousands of young people navigate the unique pressures of the world today. From binge drinking to cancel culture, sexual empowerment to race and politics - Africa isn’t afraid to speak completely honestly and frankly about anything. ",
-                "link": "https://youtu.be/q6KGsI6QzD4?si=mCX7IOsAd50wjiO-",
-                "host": "Steven Bartlet",
-                "guest": "Africa Brooke",
-                "image": "https://rb.gy/mbg228"
-            }
-        ],
-        "success habits": [
-            {
-                "id": 1,
-                "title": "The Mindset Doctor: The Secret Man Behind The World's Top Performers",
-                "description": "Professor Steve Peters is an English psychiatrist who has worked with elite athletes including British Cycling. He has published 4 books, the most well known is ‘The Chimp Paradox’.",
-                "link": "https://youtu.be/G1hqsr5mkzA?si=ryfU2uQ3tMAxIOCG",
-                "host": "Steven Bartlet",
-                "guest": "Professor Steve Peters",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 2,
-                "title": " How To BRAINWASH Yourself For Success & Destroy NEGATIVE THOUGHTS!",
-                "description": "Today, I am sitting down with Dr. Joe Dispenza to talk about the connection between our thoughts and our emotions. Joe explains the importance of paying attention to the things that will help us grow emotionally and mentally, the power of the brain and how it can trap us in the past if we allow it to, and how knowing proper breathwork can significantly helps us relieve stress and overcome anxious thoughts.  ",
-                "link": "https://youtu.be/d7sUWwHugg8?si=54zaMR82PQPQjsw4",
-                "host": "Jay Shetty",
-                "guest": "Dr Joe Dispenza",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 3,
-                "title": "The Number One Reason Why You’re Not Succeeding ",
-                "description": "Simon goes into more details about how to really run a business with ambition. He also opens our eyes about how being vulnerable online is a way to shed ourselves from true human connection. One of the most thoughtful and inspiring guests to ever grace our show, Simon brings his knowledge and experience to a conversation that will leave you clearer about what issues are really important in the world today, and how they relate to you.",
-                "link": "https://youtu.be/Q-zuTZuYeCg?si=VrO9Z9fcufa1ZMDv",
-                "host": "Steven Bartlet",
-                "guest": "Simon Sinek",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 4,
-                "title": "EVERYTHING You've Been Taught About Success Is A LIE...",
-                "description": "Lewis shows us a different perspective on finding your own purpose and going after what you believe is morally right. We talk about how even the simplest things can help change the world, the power we give to our fears and how it’s stopping us from finding our truth, the benefits of being comfortable with your own thoughts, and learning how to declutter our life so we can find our spot in this world.",
-                "link": "https://youtu.be/AyiWKXTd9aY?si=jMAYSefYDADZpGpA",
-                "host": "Jay Shetty",
-                "guest": "Sir Lewis Hamilton",
-                "image": "https://rb.gy/mbg228"
-            }
-        ],
-        "manifestation": [
-            {
-                "id": 1,
-                "title": "CREATOR of “THE SECRET” Reveals How The LAW of ATTRACTION Actually Works!",
-                "description": "Our guest today is internationally acclaimed author and creator of the groundbreaking film and book, 'The Secret'. Rhonda Byrne is a visionary, a bestselling author, and a pioneer in the world of personal development. Her work has inspired countless individuals to tap into the power of their thoughts and beliefs, unlocking the secrets to living their best lives. Rhonda reflects on the widespread resonance of 'The Secret,' dispels common misconceptions about manifestation, and provides guidance for skeptics and newcomers to this transformative field",
-                "link": "https://youtu.be/5ypFjAkwVZ4?si=yVxCxym5A36mZ3Np",
-                "host": "Lewis Howes",
-                "guest": "Rhonda Bryne",
-                "image": "https://rb.gy/zglzvo"
-            },
-            {
-                "id": 2,
-                "title": "Why Manifestation Isn’t Just A Trend: How To Manifest",
-                "description": "Have you ever wondered how some people effortlessly attract success, abundance, and happiness into their lives? There’s one school of thought that suggests our beliefs and intentions have the power to shape our reality, so by manifesting positive thoughts we’re able to change our reality for the better. Some call this concept ‘manifestation’. Over the past few years, the word manifestation has got mixed reviews - sometimes seen as a transformative practice that has the power to change people’s lives, and sometimes seen as a bit new-age’y and mystical. Today I’m joined by Roxie Nafousi, who’s going to help demystify the conversation around manifestation and help us understand how we can use the practice to be more intentional about what we want in our future to make deliberate positive change in our lives.",
-                "link": "https://example.com/manifest-your-dreams",
-                "host": "Ali Abdaal",
-                "guest": "Roxie Nafousi",
-                "image": "https://shorturl.at/bpstR"
-            },
-            {
-                "id": 3,
-                "title": "Will Smith's LIFE ADVICE On Manifesting Success Will CHANGE YOUR LIFE",
-                "description": "Today, I sit down with Will Smith to talk about his commitment to family, straying away from his father’s military mindset in search of true happiness, and how to live the golden rule - to treat others how you want to be treated.",
-                "link": "https://youtu.be/kDYMizH73cc?si=jwqS_dGCsoVNsS3Y",
-                "host": "Jay Shetty",
-                "guest": "Will Smith",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 4,
-                "title": "Delusional Self-Confidence & How To Start Manifesting Your Dream Life",
-                "description": "Russ is an American rapper, record producer, and author of the best-selling inspirational book, It’s All In Your Head. His latest album, Shake the Snow Globe, debuted at number four on the Billboard charts, becoming Russ’ third consecutive top-ten album. He joins us to share his self-development journey, the beliefs needed for true success, and how he keeps his ego in check despite his prolific accomplishments in the music industry.",
-                "link": "https://youtu.be/-4c61A2VD8k?si=yLepzuHylnz2tXuw",
-                "host": "Jay Shetty",
-                "guest": "Russ",
-                "image": "https://rb.gy/mbg228"
-            }
-        ],
-        "Confidence": [
-            {
-                "id": 1,
-                "title": "How to Build UNSHAKABLE Self Confidence",
-                "description": "In this episode, you are getting a brand new definition of #confidence. This definition is based on research studies on how confidence is built. Confidence is not what you think it is. It is not a personality trait you’re born with, and it’s not reserved only for extroverts. Confidence is a skill that anyone can master. And today is the perfect day for you to start. Confidence is your birthright. You can’t lose it; you just lost your connection to it. Let’s get that back.",
-                "link": "https://youtu.be/kMtNkJcJn3M?si=KObC-Zi6mPnKJ4DW",
-                "host": "Mel Robbins",
-                "guest": "Mel Robbins",
-                "image": "https://rb.gy/tugk8y"
-            },
-            {
-                "id": 2,
-                "title": "Become Confident In 100 Minutes",
-                "description": "James Smith is a fitness influencer and the two-time best-selling author of Not a Life Coach and Not a Diet Book. His no holds barred approach to fitness advice makes him unlike any other fitness influencer today, and now he’s bringing his unique philosophy to improving people’s confidence.",
-                "link": "https://youtu.be/tWvF2RzSnd4?si=ctcV3jKntfrwdgo2",
-                "host": "Steven Bartlet",
-                "guest": "James Smith",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 3,
-                "title": "PSYCHOLOGICAL TRICKS To Be More Charismatic & Confident TODAY",
-                "description": "To be successful we need a mixture of competence and charisma. To be charismatic:(trustable +reliable). 1. Not standing too close to someone. 2.Use your hands to express your words (not jazz hands) 3. Gift people success words. 4. Point out similarities between you and the person. 5. Don’t do up talk. (Important how you say words not just what you say)",
-                "link": "https://youtu.be/iApkwoskJkc?si=9rJa-xXvrRdYk9s7",
-                "host": "Lewis Howes",
-                "guest": "Vanessa Van Edwards",
-                "image": "https://rb.gy/zglzvo"
-            },
-            {
-                "id": 4,
-                "title": "How To Separate Your Self-Worth From Your Accomplishments",
-                "description": "Chris and Dr K Healthy Gamer discuss how to separate your self-worth from your accomplishments. How do you value yourself over your achievements according to Dr K? What strategies does Dr K recommend you do in order to feel good about yourself? Why does Dr K say you should focus on yourself above all else?",
-                "link": "https://youtu.be/wW8QBembzRQ?si=x71toMdKvF5omf0F",
-                "host": "Chris Williamson",
-                "guest": "Dr K HealthyGamer",
-                "image": "https://shorturl.at/eopYZ"
-            }
-        ],
-        "money": [
-            {
-                "id": 1,
-                "title": "How to Become a MILLIONAIRE This Year! (Shift Your MINDSET!) ",
-                "description": "Alex Hormozi shares his personal wealth journey and the profound insights he's gained along the way, emphasizing the transformative power of working smarter and with more dedication. He opens up about his goal to reach beyond billions, not just for the sake of wealth, but as a testament to his evolving approach to business and the deep pride he takes in giving his all.",
-                "link": "https://youtu.be/WK-d4H7xtvQ?si=RLRukj9g7NxclP90",
-                "host": "Lewis Howes",
-                "guest": "Alex Hormozi",
-                "image": "https://rb.gy/zglzvo"
-            },
-            {
-                "id": 2,
-                "title": "The Exact Formula For Turning $100 into $100k Per Month!",
-                "description": "Daniel Priestley is an award-winning serial entrepreneur who has built and sold several successful businesses and written 5 books on starting and scaling businesses.",
-                "link": "https://example.com/manifest-your-dreams",
-                "host": "Steven Bartlet",
-                "guest": "Daniel Priestley",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 3,
-                "title": "Turning $1,000 to $1Billion!",
-                "description": "As the original Shark of all 13 seasons of the Shark Tank, Barbara Corcoran has never stopped swimming or hustling. Ever since 1973 when she borrowed $1000 to start her own real estate firm, Barbara’s relentless drive and spirit turned The Corcoran Group into $6 billion dollar business.",
-                "link": "https://youtu.be/e6d9PJLAQmE?si=pI6ldryZUbdpFV65",
-                "host": "Steven Bartlet",
-                "guest": "Barbara Corcoran",
-                "image": "https://rb.gy/mbg228"
-            },
-            {
-                "id": 4,
-                "title": "INVESTING Expert: How I Went From $0-$1M By 30! (Anyone Can Do THIS!) ",
-                "description": "Vivian Tu is a former Wall Street trader-turned-expert, educator, public speaker, host, entrepreneur, media powerhouse, and the founder and CEO of the financial equity phenomenon, “Your Rich BFF.” In this episode Vivian explains how she found financial success and you can too!",
-                "link": "https://youtu.be/fUtDU0U7Zqw?si=nVbYpMQ5MFhwAjO6",
-                "host": "Lewis Howes",
-                "guest": "Vivian Tu",
-                "image": "https://rb.gy/zglzvo"
-            }
-        ]
-    },
-    "quotes": {
-        "relationship": [
-            {
-                "id": 1,
-                "quote": "Love is not about demanding, it's about understanding.",
-                "author": "Unknown"
-            },
-            {
-                "id": 2,
-                "quote": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
-                "author": "Victor Hugo"
-            },
-            {
-                "id": 3,
-                "quote": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-                "author": "Carl Jung"
-            },
-            {
-                "id": 4,
-                "quote": "A successful marriage requires falling in love many times, always with the same person.",
-                "author": "Mignon McLaughlin"
-            }
-        ],
-        "productivity": [
-            {
-                "id": 1,
-                "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
-                "author": "Steve Jobs"
-            },
-            {
-                "id": 2,
-                "quote": "The secret of getting ahead is getting started.",
-                "author": "Mark Twain"
-            },
-            {
-                "id": 3,
-                "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-                "author": "Albert Schweitzer"
-            },
-            {
-                "id": 4,
-                "quote": "Productivity is being able to do things that you were never able to do before.",
-                "author": "Franz Kafka"
-            }
-        ],
-        "life stories": [
-            {
-                "id": 1,
-                "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
-                "author": "Franklin D. Roosevelt"
-            },
-            {
-                "id": 2,
-                "quote": "The most common way people give up their power is by thinking they don’t have any.",
-                "author": "Alice Walker"
-            },
-            {
-                "id": 3,
-                "quote": "The future belongs to those who believe in the beauty of their dreams.",
-                "author": "Eleanor Roosevelt"
-            },
-            {
-                "id": 4,
-                "quote": "Your time is limited, don't waste it living someone else's life.",
-                "author": "Steve Jobs"
-            }
-        ],
-        "success habits": [
-            {
-                "id": 1,
-                "quote": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
-                "author": "Stephen Covey"
-            },
-            {
-                "id": 2,
-                "quote": "Don't watch the clock; do what it does. Keep going.",
-                "author": "Sam Levenson"
-            },
-            {
-                "id": 3,
-                "quote": "Success is not in what you have, but who you are.",
-                "author": "Bo Bennett"
-            },
-            {
-                "id": 4,
-                "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
-                "author": "Winston S. Churchill"
-            }
-        ],
-        "manifestation": [
-            {
-                "id": 1,
-                "quote": "The only way to do great work is to love what you do.",
-                "author": "Steve Jobs"
-            },
-            {
-                "id": 2,
-                "quote": "What you think, you become. What you feel, you attract. What you imagine, you create.",
-                "author": "Buddha"
-            },
-            {
-                "id": 3,
-                "quote": "Your thoughts create your reality.",
-                "author": "Unknown"
-            },
-            {
-                "id": 4,
-                "quote": "Believe you can and you're halfway there.",
-                "author": "Theodore Roosevelt"
-            }
-        ],
-        "confidence": [
-            {
-                "id": 1,
-                "quote": "With realization of one's own potential and self-confidence in one's ability, one can build a better world.",
-                "author": "Dalai Lama"
-            },
-            {
-                "id": 2,
-                "quote": "Confidence comes not from always being right, but from not fearing to be wrong.",
-                "author": "Peter T. McIntyre"
-            },
-            {
-                "id": 3,
-                "quote": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
-                "author": "Eleanor Roosevelt"
-            },
-            {
-                "id": 4,
-                "quote": "Self-confidence is the first requisite to great undertakings.",
-                "author": "Samuel Johnson"
-            }
-        ],
-        "money": [
-            {
-                "id": 1,
-                "quote": "It's not about having money, it's about having power over your own life.",
-                "author": "Unknown"
-            },
-            {
-                "id": 2,
-                "quote": "The art is not in making money, but in keeping it.",
-                "author": "Proverb"
-            },
-            {
-                "id": 3,
-                "quote": "Wealth is the ability to fully experience life.",
-                "author": "Henry David Thoreau"
-            },
-            {
-                "id": 4,
-                "quote": "The only way to permanently change the temperature in the room is to reset the thermostat. In the same way, the only way to change your level of financial success 'permanently' is to reset your financial thermostat.",
-                "author": "T. Harv Eker"
-            }
-        ]
-    },
-    "books": {
-        "relationship": [
-            {
-                "id": 1,
-                "title": "The 5 Love Languages: The Secret to Love That Lasts",
-                "author": "Gary Chapman",
-                "summary": "This book explores the concept that people express and experience love in different ways. By understanding your partner's love language, you can improve communication, deepen intimacy, and build a stronger relationship.",
-                "image": "https://t.ly/IVGwA"
-            },
-            {
-                "id": 2,
-                "title": "Men Are from Mars, Women Are from Venus",
-                "author": "John Gray",
-                "summary": "John Gray discusses the fundamental differences between men and women in relationships and offers practical advice on how to navigate communication, understanding, and connection between the sexes.",
-                "image": "https://t.ly/zWTH1"
-            },
-            {
-                "id": 3,
-                "title": "Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love",
-                "author": "Amir Levine, Rachel Heller",
-                "summary": "Based on attachment theory, this book explores how people form and maintain romantic relationships. It provides insights into attachment styles and offers guidance on creating secure and fulfilling relationships.",
-                "image": "https://t.ly/pwYzB"
-            },
-            {
-                "id": 4,
-                "title": "The Seven Principles for Making Marriage Work",
-                "author": "John Gottman, Nan Silver",
-                "summary": "John Gottman, a renowned relationship expert, presents seven principles backed by research to help couples strengthen their marriage and resolve conflicts effectively. This book offers practical strategies for building trust, intimacy, and long-lasting love.",
-                "image": "https://t.ly/3JdcI"
-            }
-        ],
-        "productivity": [
-            {
-                "id": 1,
-                "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
-                "author": "James Clear",
-                "summary": "James Clear presents a comprehensive guide to building good habits and breaking bad ones. He emphasizes the power of small changes, or 'atomic habits,' and provides practical strategies backed by scientific research to help readers improve their productivity and achieve their goals.",
-                "image": "https://t.ly/uKBah"
-            },
-            {
-                "id": 2,
-                "title": "Deep Work: Rules for Focused Success in a Distracted World",
-                "author": "Cal Newport",
-                "summary": "Cal Newport argues that deep, focused work is the key to success in today's knowledge economy. He provides strategies for cultivating deep work habits and minimizing distractions to maximize productivity and achieve remarkable results.",
-                "image": "https://t.ly/HXPTk"
-            },
-            {
-                "id": 3,
-                "title": "Getting Things Done: The Art of Stress-Free Productivity",
-                "author": "David Allen",
-                "summary": "David Allen introduces the GTD (Getting Things Done) methodology for organizing tasks and projects. He offers practical techniques for clearing mental clutter, increasing efficiency, and achieving stress-free productivity.",
-                "image": "https://t.ly/ALtIt"
-            },
-            {
-                "id": 4,
-                "title": "Essentialism: The Disciplined Pursuit of Less",
-                "author": "Greg McKeown",
-                "summary": "Greg McKeown advocates for the principle of essentialism—the disciplined pursuit of less but better. He explores how focusing on what truly matters can lead to greater clarity, effectiveness, and fulfillment in work and life.",
-                "image": "https://t.ly/vjZSM"
-            }
-        ],
-        "life story": [
-            {
-                "id": 1,
-                "title": "Educated",
-                "author": "Tara Westover",
-                "summary": "This memoir tells the story of Tara Westover's journey from growing up in a strict and isolated survivalist family to earning a PhD from Cambridge University. It's a powerful account of resilience, self-discovery, and the pursuit of education against all odds.",
-                "image": "https://t.ly/vCz4e"
-            },
-            {
-                "id": 2,
-                "title": "Becoming",
-                "author": "Michelle Obama",
-                "summary": "Michelle Obama shares her deeply personal and inspiring journey from her childhood on the South Side of Chicago to becoming the First Lady of the United States. With honesty and grace, she reflects on her experiences, challenges, and aspirations.",
-                "image": "https://rb.gy/5ua3kf"
-            },
-            {
-                "id": 3,
-                "title": "Born a Crime: Stories from a South African Childhood",
-                "author": "Trevor Noah",
-                "summary": "Trevor Noah recounts his remarkable childhood growing up in South Africa during apartheid and the challenges he faced being mixed-race in a divided society. With humor and insight, he shares stories of resilience, identity, and finding humor in adversity.",
-                "image": "https://rb.gy/hr3vxm"
-            },
-            {
-                "id": 4,
-                "title": "The Glass Castle: A Memoir",
-                "author": "Jeannette Walls",
-                "summary": "Jeannette Walls chronicles her unconventional upbringing with parents who were nomadic and often struggled with poverty and substance abuse. Despite the hardships, she finds strength and resilience, ultimately forging her own path to success.",
-                "image": "https://rb.gy/fd9frz"
-            }
-        ],
-        "success habits": [
-            {
-                "id": 1,
-                "title": "The 7 Habits of Highly Effective People",
-                "author": "Stephen R. Covey",
-                "summary": "Stephen Covey presents a holistic approach to personal and professional effectiveness based on timeless principles. Through his seven habits, he guides readers on a journey of self-mastery, interpersonal effectiveness, and continuous improvement.",
-                "image": "https://rb.gy/axlxby"
-            },
-            {
-                "id": 2,
-                "title": "Mindset: The New Psychology of Success",
-                "author": "Carol S. Dweck",
-                "summary": "Carol Dweck explores the concept of mindset—the belief system that shapes our attitudes, behaviors, and outcomes. She discusses the differences between a fixed mindset and a growth mindset, offering insights into how mindset influences success and fulfillment.",
-                "image": "https://rb.gy/ltnspi"
-            },
-            {
-                "id": 3,
-                "title": "Think and Grow Rich",
-                "author": "Napoleon Hill",
-                "summary": "Napoleon Hill distills the principles of success from interviews with over 500 wealthy individuals, including Andrew Carnegie and Thomas Edison. This timeless classic explores the power of mindset, desire, and persistence in achieving wealth and success.",
-                "image": "https://rb.gy/io7w33"
-            },
-            {
-                "id": 4,
-                "title": "The Power of Habit: Why We Do What We Do in Life and Business",
-                "author": "Charles Duhigg",
-                "summary": "Charles Duhigg delves into the science of habit formation and transformation. He explores how habits shape our lives and provides insights into how individuals and organizations can harness the power of habits to achieve lasting change.",
-                "image": "https://rb.gy/onamuo"
-            }
-        ],
-        "manifestation": [
-            {
-                "id": 1,
-                "title": "The Power of Now: A Guide to Spiritual Enlightenment",
-                "author": "Eckhart Tolle",
-                "summary": "Eckhart Tolle shares insights and practices to help readers live in the present moment and transcend the limitations of the egoic mind. By cultivating mindfulness and awareness, he argues that individuals can experience inner peace, fulfillment, and a deeper connection to life.",
-                "image": "https://rb.gy/50np1x"
-            },
-            {
-                "id": 2,
-                "title": "The Secret",
-                "author": "Rhonda Byrne",
-                "summary": "Rhonda Byrne explores the law of attraction and its potential to manifest desires into reality. Through anecdotes, quotes, and exercises, she encourages readers to harness the power of positive thinking and visualization to create the life they desire.",
-                "image": "https://rb.gy/hd43hj"
-            },
-            {
-                "id": 3,
-                "title": "Big Magic: Creative Living Beyond Fear",
-                "author": "Elizabeth Gilbert",
-                "summary": "Elizabeth Gilbert shares insights and inspiration to unleash creativity and pursue a fulfilling creative life. She explores the obstacles and fears that can hinder creative expression and offers guidance on embracing curiosity, courage, and persistence.",
-                "image": "https://rb.gy/9tclun"
-            },
-            {
-                "id": 4,
-                "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
-                "author": "Jen Sincero",
-                "summary": "Jen Sincero offers a blend of humor, practical advice, and motivational insights to help readers overcome self-doubt and live a life of abundance and fulfillment. Through personal stories and exercises, she empowers readers to embrace their inner badass and create the life they desire.",
-                "image": "https://shorturl.at/gGUX9"
-            }
-        ],
-        "confidence": [
-            {
-                "id": 1,
-                "title": "The Confidence Code: The Science and Art of Self-Assurance—What Women Should Know",
-                "author": "Katty Kay, Claire Shipman",
-                "summary": "Drawing on research from neuroscience, psychology, and personal anecdotes, Katty Kay and Claire Shipman explore the concept of confidence and its importance in personal and professional success. They provide actionable strategies for building confidence and overcoming self-doubt.",
-                "image": "https://shorturl.at/bozOT"
-            },
-            {
-                "id": 2,
-                "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges",
-                "author": "Amy Cuddy",
-                "summary": "Amy Cuddy examines the power of presence—the ability to express one's true self and engage authentically in challenging situations. Through research and personal stories, she offers insights and techniques to cultivate presence and confidence in various aspects of life.",
-                "image": "https://shorturl.at/fotC6"
-            },
-            {
-                "id": 3,
-                "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
-                "author": "Brené Brown",
-                "summary": "Brené Brown explores the transformative power of vulnerability in relationships, leadership, and personal growth. She challenges the notion that vulnerability is a weakness and offers insights into how embracing vulnerability can lead to greater connection, courage, and authenticity.",
-                "image": "https://shorturl.at/bCQU9"
-            },
-            {
-                "id": 4,
-                "title": "The Confidence Gap: A Guide to Overcoming Fear and Self-Doubt",
-                "author": "Russ Harris",
-                "summary": "Russ Harris presents strategies from acceptance and commitment therapy (ACT) to help readers overcome self-doubt and build confidence. Through practical exercises and mindfulness techniques, he guides readers on a journey of self-discovery and empowerment.",
-                "image": "https://shorturl.at/rCDE6"
-            }
-        ],
-        "money": [
-            {
-                "id": 1,
-                "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
-                "author": "Morgan Housel",
-                "summary": "The Psychology of Money delves into the complex relationship between individuals and money, exploring the psychological and behavioral aspects that influence financial decisions. Housel combines insights from psychology, economics, and personal finance to offer timeless lessons on wealth accumulation, managing greed, and finding happiness through a deeper understanding of money. The book provides valuable insights into how emotions, biases, and societal influences impact financial behavior, offering readers practical guidance for building a healthier and more fulfilling relationship with money.",
-                "image": "https://rb.gy/txcunt"
-            },
-            {
-                "id": 2,
-                "title": "The Millionaire Next Door: The Surprising Secrets of America's Wealthy",
-                "author": "Thomas J. Stanley, William D. Danko",
-                "summary": "Thomas Stanley and William Danko examine the habits and characteristics of millionaires in America. Through research and interviews, they reveal surprising insights into how ordinary people accumulate wealth and achieve financial success.",
-                "image": "https://rb.gy/rmldyt"
-            },
-            {
-                "id": 3,
-                "title": "I Will Teach You to Be Rich",
-                "author": "Ramit Sethi",
-                "summary": "Ramit Sethi offers a six-week personal finance program to help readers take control of their finances and build wealth. He covers topics such as saving, investing, budgeting, and negotiating, providing practical advice for achieving financial freedom.",
-                "image": "https://rb.gy/gw8zuf"
-            },
-            {
-                "id": 4,
-                "title": "The Total Money Makeover: A Proven Plan for Financial Fitness",
-                "author": "Dave Ramsey",
-                "summary": "Dave Ramsey presents a step-by-step plan for getting out of debt, building wealth, and achieving financial freedom. With practical advice and motivational insights, he guides readers on a journey to financial peace and security.",
-                "image": "https://rb.gy/3hxbnk"
-            }
-        ]
-    }
+    "podcasts": [
+        {
+            "id": 1,
+            "title": "Is your relationship worth saving?",
+            "description": "Psychotherapist and New York Times bestselling author Esther Perel is back. Esther is recognized as one of today’s most insightful and original voices on modern relationships. If you've ever wondered when a relationship is worth saving or why we grieve after a breakup, Esther has incredible insights to share that you can apply to your own relationship. Let's discover the power of accountability in relationships and how it can trigger positive change!",
+            "link": "https://youtu.be/OkgtwMxbnLw?si=7OVqF_qlKV5qJidw",
+            "host": "Jay Shetty",
+            "guest": "Esther Perell",
+            "image": "https://rb.gy/romt48",
+            "category": "relationships"
+        },
+        {
+            "id": 2,
+            "title": "The Biggest Red Flags",
+            "description": "Want to have more love and improve your modern relationship? This is for you! Expert in psychodynamic therapy and relationship specialist Sadia Khan breaks down the dynamics of modern dating!With her wealth of expertise in relationships and personal growth, Sadia Khan has been a beacon of guidance for all those seeking love and companionship.",
+            "link": "https://youtu.be/jfVH7rE_rF0?si=LgI-qo7s0RfyOqzG",
+            "host": "Lewis Howes",
+            "guest": "Michael Brown",
+            "image": "https://rb.gy/zglzvo",
+            "category": "relationships"
+        },
+        {
+            "id": 3,
+            "title": "Do this today to find lasting love!",
+            "description": "Today we have a special guest, Pastor Michael Todd, who is a renowed spiritual leader and relationship expert. He and his wife, Natalie, have been leading Transformation Church in Tulsa, Oklahoma, since 2015. They are known for their impactful teaching on relationships, marrieage, and personal growth.",
+            "link": "https://youtu.be/JNcZBaVMXS8?si=cNV0dwjc05ZytJGM",
+            "host": "Lewis Howes",
+            "guest": "Mike Todd",
+            "image": "https://rb.gy/zglzvo",
+            "category": "relationships"
+        },
+        {
+            "id": 4,
+            "title": "4 simple rules for the perfect relationship",
+            "description": "Want to improve your relationship? Jay Shetty shares his top 4 rules on how to have the perfect relationship. ay Shetty is an English author, life coach and viral content creator, he lived and trained as a monk for 3 years. His ‘On Purpose’ podcast has received over 300 million downloads",
+            "link": "https://youtu.be/zQ73nO1CjBU?si=ANzFvETQWa0mEtnC",
+            "host": "Steven Bartlet",
+            "guest": "Jay Shetty",
+            "image": "https://rb.gy/mbg228",
+            "category": "relationships"
+        },
+        {
+            "id": 5,
+            "title": "The Productivity Blueprint",
+            "description": "In this episode, former medical doctor turned productivity expert and YouTube star Ali Abdaal is about to flip that script about what you thought you knew about productivity. In his new book, Feel-Good Productivity, he reveals a refreshing and uplifting approach to success, one that's rooted in joy and well-being rather than stress and grind. We dive into that strategy and much more!",
+            "link": "https://youtu.be/fb_SQe51UCk?si=0-L5HOh-U093llRG",
+            "host": "Lewis Howes",
+            "guest": "Ali Abdaal",
+            "image": "https://rb.gy/zglzvo",
+            "category": "productivity"
+        },
+        {
+            "id": 6,
+            "title": "How to Enhance Focus and Improve Productivity",
+            "description": "In this episode, my guest is Dr. Cal Newport, Ph.D., a professor of computer science at Georgetown University and bestselling author of numerous books on focus and productivity and how to access the deepest possible layers of your cognitive abilities in order to do quality work and lead a more balanced life. We discuss how to avoid digital distraction, specific systems to best arrange and update your schedule, and how to curate your work and home environment. We discuss how to engage with smartphones and technology, the significant productivity cost of task-switching, and how to avoid and overcome burnout. This episode provides specific protocols for enhancing focus and productivity, time management, task prioritization, and improving work-life balance that ought to be useful for anyone, young or old, regardless of profession.",
+            "link": "https://youtu.be/p4ZfkezDTXQ?si=pQvvnJGzupKLBNVV",
+            "host": "Andrew Huberman",
+            "guest": "Dr Cal Newport",
+            "image": "https://rb.gy/igy4ok",
+            "category": "productivity"
+        },
+        {
+            "id": 7,
+            "title": "The #1 Hack for being more productive tomorrow",
+            "description": "In this episode, we are talking about the #1 thing you can do to make sure tomorrow is a #productive and awesome day.I’m sure you know the importance of a good #morningroutine. But what you may not know is that a rock-solid #morning routine – the kind that kickstarts you and your day for maximum #focus and to feel more in control, calm, and like the rockstar that you are. It doesn’t start where you think. If you truly want to own your day, you must first own the night before. This episode is packed with research-backed tactics, specific advice, and the four science-backed components of the best evening routine..",
+            "link": "https://youtu.be/eCsXE4Dlulg?si=EPOlOlaHlk2qJ4Fi",
+            "host": "Mel Robbins",
+            "guest": "Mel Robbins",
+            "image": "https://rb.gy/tugk8y",
+            "category": "productivity"
+        },
+        {
+            "id": 8,
+            "title": "Unlock the sectrets of your mind, Boost productivity & reduce Stress",
+            "description": "Daily tips and habits to master your time, focus, and productivity for success.",
+            "link": "https://youtu.be/l5WybwqCZic?si=O4ajIOKVf7M4hfvm",
+            "host": "Steven Bartlet",
+            "guest": "Yung Pueblo",
+            "image": "https://rb.gy/mbg228",
+            "category": "productivity"
+        },
+        {
+            "id": 9,
+            "title": "17 Raw Lessons about Human Nature",
+            "description": "Heartfelt stories of resilience, courage, and triumph from individuals who overcame adversity.",
+            "link": "https://youtu.be/JBgwF8aHByI?si=cvS65DrEP8trY5tB",
+            "host": "Chris Williamson",
+            "guest": "Steven Bartlett",
+            "image": "https://shorturl.at/eopYZ",
+            "category": "life story"
+        },
+        {
+            "id": 10,
+            "title": "Man VS Failure, Anxiety & Imposter Syndrome ",
+            "description": "Bear Grylls is a British adventurer and television host who has been an international sensation of survival shows for twenty years. The host of Man vs. Wild, You vs. Wild, Running Wild, The Island, and the author of Mud, Sweat and Tears and over twenty other books, he's come in to talk to us about his new book - Never Give Up. ",
+            "link": "https://youtu.be/V6mZJRb9MZY?si=oaokYBFcw0FX9uPu",
+            "host": "Steven Bartlet",
+            "guest": "Bear Grylls",
+            "image": "https://rb.gy/mbg228",
+            "category": "life story"
+        },
+        {
+            "id": 11,
+            "title": "The Man Who Followed Elon Musk Everywhere: 7 Elon Secrets!",
+            "description": "If you ever wanted to see inside the mind of the riches and most powerful man in the world, this episode is for you.",
+            "link": "https://youtu.be/9BDmC5u_MLE?si=PFGMbgJbJWYgPV79",
+            "host": "Steven Bartlet",
+            "guest": "Walter Isaacson",
+            "image": "https://rb.gy/mbg228",
+            "category": "life story"
+        },
+        {
+            "id": 12,
+            "title": "Victimhood & Self-sabotage Is Destroying The World In 2022",
+            "description": "Africa Brooke is a speaker and podcast host, who has built a community that has helped hundreds of thousands of young people navigate the unique pressures of the world today. From binge drinking to cancel culture, sexual empowerment to race and politics - Africa isn’t afraid to speak completely honestly and frankly about anything. ",
+            "link": "https://youtu.be/q6KGsI6QzD4?si=mCX7IOsAd50wjiO-",
+            "host": "Steven Bartlet",
+            "guest": "Africa Brooke",
+            "image": "https://rb.gy/mbg228",
+            "category": "life story"
+        },
+        {
+            "id": 13,
+            "title": "The Mindset Doctor: The Secret Man Behind The World's Top Performers",
+            "description": "Professor Steve Peters is an English psychiatrist who has worked with elite athletes including British Cycling. He has published 4 books, the most well known is ‘The Chimp Paradox’.",
+            "link": "https://youtu.be/G1hqsr5mkzA?si=ryfU2uQ3tMAxIOCG",
+            "host": "Steven Bartlet",
+            "guest": "Professor Steve Peters",
+            "image": "https://rb.gy/mbg228",
+            "category": "success habits"
+        },
+        {
+            "id": 14,
+            "title": " How To BRAINWASH Yourself For Success & Destroy NEGATIVE THOUGHTS!",
+            "description": "Today, I am sitting down with Dr. Joe Dispenza to talk about the connection between our thoughts and our emotions. Joe explains the importance of paying attention to the things that will help us grow emotionally and mentally, the power of the brain and how it can trap us in the past if we allow it to, and how knowing proper breathwork can significantly helps us relieve stress and overcome anxious thoughts.  ",
+            "link": "https://youtu.be/d7sUWwHugg8?si=54zaMR82PQPQjsw4",
+            "host": "Jay Shetty",
+            "guest": "Dr Joe Dispenza",
+            "image": "https://rb.gy/mbg228",
+            "category": "success habits"
+        },
+        {
+            "id": 15,
+            "title": "The Number One Reason Why You’re Not Succeeding ",
+            "description": "Simon goes into more details about how to really run a business with ambition. He also opens our eyes about how being vulnerable online is a way to shed ourselves from true human connection. One of the most thoughtful and inspiring guests to ever grace our show, Simon brings his knowledge and experience to a conversation that will leave you clearer about what issues are really important in the world today, and how they relate to you.",
+            "link": "https://youtu.be/Q-zuTZuYeCg?si=VrO9Z9fcufa1ZMDv",
+            "host": "Steven Bartlet",
+            "guest": "Simon Sinek",
+            "image": "https://rb.gy/mbg228",
+            "category": "success habits"
+        },
+        {
+            "id": 16,
+            "title": "EVERYTHING You've Been Taught About Success Is A LIE...",
+            "description": "Lewis shows us a different perspective on finding your own purpose and going after what you believe is morally right. We talk about how even the simplest things can help change the world, the power we give to our fears and how it’s stopping us from finding our truth, the benefits of being comfortable with your own thoughts, and learning how to declutter our life so we can find our spot in this world.",
+            "link": "https://youtu.be/AyiWKXTd9aY?si=jMAYSefYDADZpGpA",
+            "host": "Jay Shetty",
+            "guest": "Sir Lewis Hamilton",
+            "image": "https://rb.gy/mbg228",
+            "category": "success habits"
+        },
+        {
+            "id": 17,
+            "title": "CREATOR of “THE SECRET” Reveals How The LAW of ATTRACTION Actually Works!",
+            "description": "Our guest today is internationally acclaimed author and creator of the groundbreaking film and book, 'The Secret'. Rhonda Byrne is a visionary, a bestselling author, and a pioneer in the world of personal development. Her work has inspired countless individuals to tap into the power of their thoughts and beliefs, unlocking the secrets to living their best lives. Rhonda reflects on the widespread resonance of 'The Secret,' dispels common misconceptions about manifestation, and provides guidance for skeptics and newcomers to this transformative field",
+            "link": "https://youtu.be/5ypFjAkwVZ4?si=yVxCxym5A36mZ3Np",
+            "host": "Lewis Howes",
+            "guest": "Rhonda Bryne",
+            "image": "https://rb.gy/zglzvo",
+            "category": "manifestation"
+        },
+        {
+            "id": 18,
+            "title": "Why Manifestation Isn’t Just A Trend: How To Manifest",
+            "description": "Have you ever wondered how some people effortlessly attract success, abundance, and happiness into their lives? There’s one school of thought that suggests our beliefs and intentions have the power to shape our reality, so by manifesting positive thoughts we’re able to change our reality for the better. Some call this concept ‘manifestation’. Over the past few years, the word manifestation has got mixed reviews - sometimes seen as a transformative practice that has the power to change people’s lives, and sometimes seen as a bit new-age’y and mystical. Today I’m joined by Roxie Nafousi, who’s going to help demystify the conversation around manifestation and help us understand how we can use the practice to be more intentional about what we want in our future to make deliberate positive change in our lives.",
+            "link": "https://example.com/manifest-your-dreams",
+            "host": "Ali Abdaal",
+            "guest": "Roxie Nafousi",
+            "image": "https://shorturl.at/bpstR",
+            "category": "manifestation"
+        },
+        {
+            "id": 19,
+            "title": "Will Smith's LIFE ADVICE On Manifesting Success Will CHANGE YOUR LIFE",
+            "description": "Today, I sit down with Will Smith to talk about his commitment to family, straying away from his father’s military mindset in search of true happiness, and how to live the golden rule - to treat others how you want to be treated.",
+            "link": "https://youtu.be/kDYMizH73cc?si=jwqS_dGCsoVNsS3Y",
+            "host": "Jay Shetty",
+            "guest": "Will Smith",
+            "image": "https://rb.gy/mbg228",
+            "category": "manifestation"
+        },
+        {
+            "id": 20,
+            "title": "Delusional Self-Confidence & How To Start Manifesting Your Dream Life",
+            "description": "Russ is an American rapper, record producer, and author of the best-selling inspirational book, It’s All In Your Head. His latest album, Shake the Snow Globe, debuted at number four on the Billboard charts, becoming Russ’ third consecutive top-ten album. He joins us to share his self-development journey, the beliefs needed for true success, and how he keeps his ego in check despite his prolific accomplishments in the music industry.",
+            "link": "https://youtu.be/-4c61A2VD8k?si=yLepzuHylnz2tXuw",
+            "host": "Jay Shetty",
+            "guest": "Russ",
+            "image": "https://rb.gy/mbg228",
+            "category": "manifestation"
+        },
+        {
+            "id": 21,
+            "title": "How to Build UNSHAKABLE Self Confidence",
+            "description": "In this episode, you are getting a brand new definition of #confidence. This definition is based on research studies on how confidence is built. Confidence is not what you think it is. It is not a personality trait you’re born with, and it’s not reserved only for extroverts. Confidence is a skill that anyone can master. And today is the perfect day for you to start. Confidence is your birthright. You can’t lose it; you just lost your connection to it. Let’s get that back.",
+            "link": "https://youtu.be/kMtNkJcJn3M?si=KObC-Zi6mPnKJ4DW",
+            "host": "Mel Robbins",
+            "guest": "Mel Robbins",
+            "image": "https://rb.gy/tugk8y",
+            "category": "confidence"
+        },
+        {
+            "id": 22,
+            "title": "Become Confident In 100 Minutes",
+            "description": "James Smith is a fitness influencer and the two-time best-selling author of Not a Life Coach and Not a Diet Book. His no holds barred approach to fitness advice makes him unlike any other fitness influencer today, and now he’s bringing his unique philosophy to improving people’s confidence.",
+            "link": "https://youtu.be/tWvF2RzSnd4?si=ctcV3jKntfrwdgo2",
+            "host": "Steven Bartlet",
+            "guest": "James Smith",
+            "image": "https://rb.gy/mbg228",
+            "category": "confidence"
+        },
+        {
+            "id": 23,
+            "title": "PSYCHOLOGICAL TRICKS To Be More Charismatic & Confident TODAY",
+            "description": "To be successful we need a mixture of competence and charisma. To be charismatic:(trustable +reliable). 1. Not standing too close to someone. 2.Use your hands to express your words (not jazz hands) 3. Gift people success words. 4. Point out similarities between you and the person. 5. Don’t do up talk. (Important how you say words not just what you say)",
+            "link": "https://youtu.be/iApkwoskJkc?si=9rJa-xXvrRdYk9s7",
+            "host": "Lewis Howes",
+            "guest": "Vanessa Van Edwards",
+            "image": "https://rb.gy/zglzvo",
+            "category": "confidence"
+        },
+        {
+            "id": 24,
+            "title": "How To Separate Your Self-Worth From Your Accomplishments",
+            "description": "Chris and Dr K Healthy Gamer discuss how to separate your self-worth from your accomplishments. How do you value yourself over your achievements according to Dr K? What strategies does Dr K recommend you do in order to feel good about yourself? Why does Dr K say you should focus on yourself above all else?",
+            "link": "https://youtu.be/wW8QBembzRQ?si=x71toMdKvF5omf0F",
+            "host": "Chris Williamson",
+            "guest": "Dr K HealthyGamer",
+            "image": "https://shorturl.at/eopYZ",
+            "category": "confidence"
+        },
+        {
+            "id": 25,
+            "title": "How to Become a MILLIONAIRE This Year! (Shift Your MINDSET!) ",
+            "description": "Alex Hormozi shares his personal wealth journey and the profound insights he's gained along the way, emphasizing the transformative power of working smarter and with more dedication. He opens up about his goal to reach beyond billions, not just for the sake of wealth, but as a testament to his evolving approach to business and the deep pride he takes in giving his all.",
+            "link": "https://youtu.be/WK-d4H7xtvQ?si=RLRukj9g7NxclP90",
+            "host": "Lewis Howes",
+            "guest": "Alex Hormozi",
+            "image": "https://rb.gy/zglzvo",
+            "category": "money"
+        },
+        {
+            "id": 26,
+            "title": "The Exact Formula For Turning $100 into $100k Per Month!",
+            "description": "Daniel Priestley is an award-winning serial entrepreneur who has built and sold several successful businesses and written 5 books on starting and scaling businesses.",
+            "link": "https://example.com/manifest-your-dreams",
+            "host": "Steven Bartlet",
+            "guest": "Daniel Priestley",
+            "image": "https://rb.gy/mbg228",
+            "category": "money"
+        },
+        {
+            "id": 27,
+            "title": "Turning $1,000 to $1Billion!",
+            "description": "As the original Shark of all 13 seasons of the Shark Tank, Barbara Corcoran has never stopped swimming or hustling. Ever since 1973 when she borrowed $1000 to start her own real estate firm, Barbara’s relentless drive and spirit turned The Corcoran Group into $6 billion dollar business.",
+            "link": "https://youtu.be/e6d9PJLAQmE?si=pI6ldryZUbdpFV65",
+            "host": "Steven Bartlet",
+            "guest": "Barbara Corcoran",
+            "image": "https://rb.gy/mbg228",
+            "category": "money"
+        },
+        {
+            "id": 28,
+            "title": "INVESTING Expert: How I Went From $0-$1M By 30! (Anyone Can Do THIS!) ",
+            "description": "Vivian Tu is a former Wall Street trader-turned-expert, educator, public speaker, host, entrepreneur, media powerhouse, and the founder and CEO of the financial equity phenomenon, “Your Rich BFF.” In this episode Vivian explains how she found financial success and you can too!",
+            "link": "https://youtu.be/fUtDU0U7Zqw?si=nVbYpMQ5MFhwAjO6",
+            "host": "Lewis Howes",
+            "guest": "Vivian Tu",
+            "image": "https://rb.gy/zglzvo",
+            "category": "money"
+        }
+    ],
+    "quotes": [
+        {
+            "id": 1,
+            "quote": "Love is not about demanding, it's about understanding.",
+            "author": "Unknown",
+            "category": "relationships"
+        },
+        {
+            "id": 2,
+            "quote": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+            "author": "Victor Hugo",
+            "category": "relationships"
+        },
+        {
+            "id": 3,
+            "quote": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+            "author": "Carl Jung",
+            "category": "relationships"
+        },
+        {
+            "id": 4,
+            "quote": "A successful marriage requires falling in love many times, always with the same person.",
+            "author": "Mignon McLaughlin",
+            "category": "relationships"
+        },
+        {
+            "id": 5,
+            "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+            "author": "Steve Jobs",
+            "category": "productivity"
+        },
+        {
+            "id": 6,
+            "quote": "The secret of getting ahead is getting started.",
+            "author": "Mark Twain",
+            "category": "productivity"
+        },
+        {
+            "id": 7,
+            "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+            "author": "Albert Schweitzer",
+            "category": "productivity"
+        },
+        {
+            "id": 8,
+            "quote": "Productivity is being able to do things that you were never able to do before.",
+            "author": "Franz Kafka",
+            "category": "productivity"
+        },
+        {
+            "id": 9,
+            "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+            "author": "Franklin D. Roosevelt",
+            "category": "life story"
+        },
+        {
+            "id": 10,
+            "quote": "The most common way people give up their power is by thinking they don’t have any.",
+            "author": "Alice Walker",
+            "category": "life story"
+        },
+        {
+            "id": 11,
+            "quote": "The future belongs to those who believe in the beauty of their dreams.",
+            "author": "Eleanor Roosevelt",
+            "category": "life story"
+        },
+        {
+            "id": 12,
+            "quote": "Your time is limited, don't waste it living someone else's life.",
+            "author": "Steve Jobs",
+            "category": "life story"
+        },
+        {
+            "id": 13,
+            "quote": "The key is not to prioritize what's on your schedule, but to schedule your priorities.",
+            "author": "Stephen Covey",
+            "category": "success habits"
+        },
+        {
+            "id": 14,
+            "quote": "Don't watch the clock; do what it does. Keep going.",
+            "author": "Sam Levenson",
+            "category": "success habits"
+        },
+        {
+            "id": 15,
+            "quote": "Success is not in what you have, but who you are.",
+            "author": "Bo Bennett",
+            "category": "success habits"
+        },
+        {
+            "id": 16,
+            "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+            "author": "Winston S. Churchill",
+            "category": "success habits"
+        },
+        {
+            "id": 17,
+            "quote": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs",
+            "category": "manifestation"
+        },
+        {
+            "id": 18,
+            "quote": "What you think, you become. What you feel, you attract. What you imagine, you create.",
+            "author": "Buddha",
+            "category": "manifestation"
+        },
+        {
+            "id": 19,
+            "quote": "Your thoughts create your reality.",
+            "author": "Unknown",
+            "category": "manifestation"
+        },
+        {
+            "id": 20,
+            "quote": "Believe you can and you're halfway there.",
+            "author": "Theodore Roosevelt",
+            "category": "manifestation"
+        },
+        {
+            "id": 21,
+            "quote": "With realization of one's own potential and self-confidence in one's ability, one can build a better world.",
+            "author": "Dalai Lama",
+            "category": "confidence"
+        },
+        {
+            "id": 22,
+            "quote": "Confidence comes not from always being right, but from not fearing to be wrong.",
+            "author": "Peter T. McIntyre",
+            "category": "confidence"
+        },
+        {
+            "id": 23,
+            "quote": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.",
+            "author": "Eleanor Roosevelt",
+            "category": "confidence"
+        },
+        {
+            "id": 24,
+            "quote": "Self-confidence is the first requisite to great undertakings.",
+            "author": "Samuel Johnson",
+            "category": "confidence"
+        },
+        {
+            "id": 25,
+            "quote": "It's not about having money, it's about having power over your own life.",
+            "author": "Unknown",
+            "category": "money"
+        },
+        {
+            "id": 26,
+            "quote": "The art is not in making money, but in keeping it.",
+            "author": "Proverb",
+            "category": "money"
+        },
+        {
+            "id": 27,
+            "quote": "Wealth is the ability to fully experience life.",
+            "author": "Henry David Thoreau",
+            "category": "money"
+        },
+        {
+            "id": 28,
+            "quote": "The only way to permanently change the temperature in the room is to reset the thermostat. In the same way, the only way to change your level of financial success 'permanently' is to reset your financial thermostat.",
+            "author": "T. Harv Eker",
+            "category": "money"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "The 5 Love Languages: The Secret to Love That Lasts",
+            "author": "Gary Chapman",
+            "summary": "This book explores the concept that people express and experience love in different ways. By understanding your partner's love language, you can improve communication, deepen intimacy, and build a stronger relationship.",
+            "image": "https://t.ly/IVGwA",
+            "category": "relationships"
+        },
+        {
+            "id": 2,
+            "title": "Men Are from Mars, Women Are from Venus",
+            "author": "John Gray",
+            "summary": "John Gray discusses the fundamental differences between men and women in relationships and offers practical advice on how to navigate communication, understanding, and connection between the sexes.",
+            "image": "https://t.ly/zWTH1",
+            "category": "relationships"
+        },
+        {
+            "id": 3,
+            "title": "Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love",
+            "author": "Amir Levine, Rachel Heller",
+            "summary": "Based on attachment theory, this book explores how people form and maintain romantic relationships. It provides insights into attachment styles and offers guidance on creating secure and fulfilling relationships.",
+            "image": "https://t.ly/pwYzB",
+            "category": "relationships"
+        },
+        {
+            "id": 4,
+            "title": "The Seven Principles for Making Marriage Work",
+            "author": "John Gottman, Nan Silver",
+            "summary": "John Gottman, a renowned relationship expert, presents seven principles backed by research to help couples strengthen their marriage and resolve conflicts effectively. This book offers practical strategies for building trust, intimacy, and long-lasting love.",
+            "image": "https://t.ly/3JdcI",
+            "category": "relationships"
+        },
+        {
+            "id": 5,
+            "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+            "author": "James Clear",
+            "summary": "James Clear presents a comprehensive guide to building good habits and breaking bad ones. He emphasizes the power of small changes, or 'atomic habits,' and provides practical strategies backed by scientific research to help readers improve their productivity and achieve their goals.",
+            "image": "https://t.ly/uKBah",
+            "category": "productivity"
+        },
+        {
+            "id": 6,
+            "title": "Deep Work: Rules for Focused Success in a Distracted World",
+            "author": "Cal Newport",
+            "summary": "Cal Newport argues that deep, focused work is the key to success in today's knowledge economy. He provides strategies for cultivating deep work habits and minimizing distractions to maximize productivity and achieve remarkable results.",
+            "image": "https://t.ly/HXPTk",
+            "category": "productivity"
+        },
+        {
+            "id": 7,
+            "title": "Getting Things Done: The Art of Stress-Free Productivity",
+            "author": "David Allen",
+            "summary": "David Allen introduces the GTD (Getting Things Done) methodology for organizing tasks and projects. He offers practical techniques for clearing mental clutter, increasing efficiency, and achieving stress-free productivity.",
+            "image": "https://t.ly/ALtIt",
+            "category": "productivity"
+        },
+        {
+            "id": 8,
+            "title": "Essentialism: The Disciplined Pursuit of Less",
+            "author": "Greg McKeown",
+            "summary": "Greg McKeown advocates for the principle of essentialism—the disciplined pursuit of less but better. He explores how focusing on what truly matters can lead to greater clarity, effectiveness, and fulfillment in work and life.",
+            "image": "https://t.ly/vjZSM",
+            "category": "productivity"
+        },
+        {
+            "id": 9,
+            "title": "Educated",
+            "author": "Tara Westover",
+            "summary": "This memoir tells the story of Tara Westover's journey from growing up in a strict and isolated survivalist family to earning a PhD from Cambridge University. It's a powerful account of resilience, self-discovery, and the pursuit of education against all odds.",
+            "image": "https://t.ly/vCz4e",
+            "category": "life story"
+        },
+        {
+            "id": 10,
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "summary": "Michelle Obama shares her deeply personal and inspiring journey from her childhood on the South Side of Chicago to becoming the First Lady of the United States. With honesty and grace, she reflects on her experiences, challenges, and aspirations.",
+            "image": "https://rb.gy/5ua3kf",
+            "category": "life story"
+        },
+        {
+            "id": 11,
+            "title": "Born a Crime: Stories from a South African Childhood",
+            "author": "Trevor Noah",
+            "summary": "Trevor Noah recounts his remarkable childhood growing up in South Africa during apartheid and the challenges he faced being mixed-race in a divided society. With humor and insight, he shares stories of resilience, identity, and finding humor in adversity.",
+            "image": "https://rb.gy/hr3vxm",
+            "category": "life story"
+        },
+        {
+            "id": 12,
+            "title": "The Glass Castle: A Memoir",
+            "author": "Jeannette Walls",
+            "summary": "Jeannette Walls chronicles her unconventional upbringing with parents who were nomadic and often struggled with poverty and substance abuse. Despite the hardships, she finds strength and resilience, ultimately forging her own path to success.",
+            "image": "https://rb.gy/fd9frz",
+            "category": "life story"
+        },
+        {
+            "id": 13,
+            "title": "The 7 Habits of Highly Effective People",
+            "author": "Stephen R. Covey",
+            "summary": "Stephen Covey presents a holistic approach to personal and professional effectiveness based on timeless principles. Through his seven habits, he guides readers on a journey of self-mastery, interpersonal effectiveness, and continuous improvement.",
+            "image": "https://rb.gy/axlxby",
+            "category": "success habits"
+        },
+        {
+            "id": 14,
+            "title": "Mindset: The New Psychology of Success",
+            "author": "Carol S. Dweck",
+            "summary": "Carol Dweck explores the concept of mindset—the belief system that shapes our attitudes, behaviors, and outcomes. She discusses the differences between a fixed mindset and a growth mindset, offering insights into how mindset influences success and fulfillment.",
+            "image": "https://rb.gy/ltnspi",
+            "category": "success habits"
+        },
+        {
+            "id": 15,
+            "title": "Think and Grow Rich",
+            "author": "Napoleon Hill",
+            "summary": "Napoleon Hill distills the principles of success from interviews with over 500 wealthy individuals, including Andrew Carnegie and Thomas Edison. This timeless classic explores the power of mindset, desire, and persistence in achieving wealth and success.",
+            "image": "https://rb.gy/io7w33",
+            "category": "success habits"
+        },
+        {
+            "id": 16,
+            "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+            "author": "Charles Duhigg",
+            "summary": "Charles Duhigg delves into the science of habit formation and transformation. He explores how habits shape our lives and provides insights into how individuals and organizations can harness the power of habits to achieve lasting change.",
+            "image": "https://rb.gy/onamuo",
+            "category": "success habits"
+        },
+        {
+            "id": 17,
+            "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+            "author": "Eckhart Tolle",
+            "summary": "Eckhart Tolle shares insights and practices to help readers live in the present moment and transcend the limitations of the egoic mind. By cultivating mindfulness and awareness, he argues that individuals can experience inner peace, fulfillment, and a deeper connection to life.",
+            "image": "https://rb.gy/50np1x",
+            "category": "manifestation"
+        },
+        {
+            "id": 18,
+            "title": "The Secret",
+            "author": "Rhonda Byrne",
+            "summary": "Rhonda Byrne explores the law of attraction and its potential to manifest desires into reality. Through anecdotes, quotes, and exercises, she encourages readers to harness the power of positive thinking and visualization to create the life they desire.",
+            "image": "https://rb.gy/hd43hj",
+            "category": "manifestation"
+        },
+        {
+            "id": 19,
+            "title": "Big Magic: Creative Living Beyond Fear",
+            "author": "Elizabeth Gilbert",
+            "summary": "Elizabeth Gilbert shares insights and inspiration to unleash creativity and pursue a fulfilling creative life. She explores the obstacles and fears that can hinder creative expression and offers guidance on embracing curiosity, courage, and persistence.",
+            "image": "https://rb.gy/9tclun",
+            "category": "manifestation"
+        },
+        {
+            "id": 20,
+            "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+            "author": "Jen Sincero",
+            "summary": "Jen Sincero offers a blend of humor, practical advice, and motivational insights to help readers overcome self-doubt and live a life of abundance and fulfillment. Through personal stories and exercises, she empowers readers to embrace their inner badass and create the life they desire.",
+            "image": "https://shorturl.at/gGUX9",
+            "category": "manifestation"
+        },
+        {
+            "id": 21,
+            "title": "The Confidence Code: The Science and Art of Self-Assurance—What Women Should Know",
+            "author": "Katty Kay, Claire Shipman",
+            "summary": "Drawing on research from neuroscience, psychology, and personal anecdotes, Katty Kay and Claire Shipman explore the concept of confidence and its importance in personal and professional success. They provide actionable strategies for building confidence and overcoming self-doubt.",
+            "image": "https://shorturl.at/bozOT",
+            "category": "confidence"
+        },
+        {
+            "id": 22,
+            "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges",
+            "author": "Amy Cuddy",
+            "summary": "Amy Cuddy examines the power of presence—the ability to express one's true self and engage authentically in challenging situations. Through research and personal stories, she offers insights and techniques to cultivate presence and confidence in various aspects of life.",
+            "image": "https://shorturl.at/fotC6",
+            "category": "confidence"
+        },
+        {
+            "id": 23,
+            "title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+            "author": "Brené Brown",
+            "summary": "Brené Brown explores the transformative power of vulnerability in relationships, leadership, and personal growth. She challenges the notion that vulnerability is a weakness and offers insights into how embracing vulnerability can lead to greater connection, courage, and authenticity.",
+            "image": "https://shorturl.at/bCQU9",
+            "category": "confidence"
+        },
+        {
+            "id": 24,
+            "title": "The Confidence Gap: A Guide to Overcoming Fear and Self-Doubt",
+            "author": "Russ Harris",
+            "summary": "Russ Harris presents strategies from acceptance and commitment therapy (ACT) to help readers overcome self-doubt and build confidence. Through practical exercises and mindfulness techniques, he guides readers on a journey of self-discovery and empowerment.",
+            "image": "https://shorturl.at/rCDE6",
+            "category": "confidence"
+        },
+        {
+            "id": 25,
+            "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
+            "author": "Morgan Housel",
+            "summary": "The Psychology of Money delves into the complex relationship between individuals and money, exploring the psychological and behavioral aspects that influence financial decisions. Housel combines insights from psychology, economics, and personal finance to offer timeless lessons on wealth accumulation, managing greed, and finding happiness through a deeper understanding of money. The book provides valuable insights into how emotions, biases, and societal influences impact financial behavior, offering readers practical guidance for building a healthier and more fulfilling relationship with money.",
+            "image": "https://rb.gy/txcunt",
+            "category": "money"
+        },
+        {
+            "id": 26,
+            "title": "The Millionaire Next Door: The Surprising Secrets of America's Wealthy",
+            "author": "Thomas J. Stanley, William D. Danko",
+            "summary": "Thomas Stanley and William Danko examine the habits and characteristics of millionaires in America. Through research and interviews, they reveal surprising insights into how ordinary people accumulate wealth and achieve financial success.",
+            "image": "https://rb.gy/rmldyt",
+            "category": "money"
+        },
+        {
+            "id": 27,
+            "title": "I Will Teach You to Be Rich",
+            "author": "Ramit Sethi",
+            "summary": "Ramit Sethi offers a six-week personal finance program to help readers take control of their finances and build wealth. He covers topics such as saving, investing, budgeting, and negotiating, providing practical advice for achieving financial freedom.",
+            "image": "https://rb.gy/gw8zuf",
+            "category": "money"
+        },
+        {
+            "id": 28,
+            "title": "The Total Money Makeover: A Proven Plan for Financial Fitness",
+            "author": "Dave Ramsey",
+            "summary": "Dave Ramsey presents a step-by-step plan for getting out of debt, building wealth, and achieving financial freedom. With practical advice and motivational insights, he guides readers on a journey to financial peace and security.",
+            "image": "https://rb.gy/3hxbnk",
+            "category": "money"
+        }
+    ]
 }
