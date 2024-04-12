@@ -17,39 +17,47 @@ Additionally, MindForge fosters community engagement and support by enabling use
 
 In summary, MindForge offers a holistic solution for individuals seeking to nourish their minds and cultivate a life of purpose and fulfillment. By harnessing the power of public APIs, MindForge streamlines the process of accessing high-quality self-development resources, empowering users to unlock their full potential and live their best lives.
 
-## MVP
+## MVP/HOW TO MAXIMIZE OUR WEBSITE
 
 1. **Homepage:**
    - A clean and intuitive interface showcasing the platform's core features.
    - Search bar prominently displayed for users to search for self-development resources.
 
-2. **Search Results Sections:**
+2. **Add to Catalogue Sections:**
+   - Enables users to add books, quotes and podcast to our server thus increasing our keywords number and in turn making self development content more accessible.
+   - For Images Links, I would recommend using links from free websites/pinterest. 
+
+3. **Search Sections:**
+
+   - Enables users to search for content using specific keywords that are available in our server.
+
+4. **Search Results Sections:**
    - Display search results for books, blogs, quotes, and podcasts in separate sections.
    - Basic filtering options to refine search results (e.g., by category, popularity, date, etc.).
 
-3. **Book Details Secion:**
+5. **Book Details Secion:**
      - Display basic information about the selected book (title, author, summary).
      - Link to external sources for purchasing the book.
 
-4. **Quotes Details Section:**
+6. **Quotes Details Section:**
      - Display the full quote along with its author.
 
-5. **Podcast Details Section:**
+7. **Podcast Details Section:**
      - Display basic information about the selected podcast (title, host, guest, description).
      - Embed an external player to listen to podcast episodes.
 
-6. **Blog Details Section:**
+8. **Blog Details Section:**
      - Display basic information about the blog (title, author, summary)
      - Link to external sources for reading the blog
 
-7. **Responsive Design:**
+9. **Responsive Design:**
    - Ensure the website is responsive and works well across different devices (desktop, tablet, mobile).
 
-8. **Feedback Mechanism:**
-   - Include a feedback form for users to provide input and suggestions.
+10. **Feedback Mechanism:**
+   - Include a feedback form for users to provide input and suggestions. I've used FormSubmit to facilitate that.
 
-9. **Analytics Integration:**
-   - Implement basic analytics to track user interactions and popular content.
+11. **Analytics Integration:**
+   - Implement basic analytics to track user interactions and popular content. I've used google analytics.
 
 This MVP focuses on delivering essential functionality to users for searching and accessing self-development resources while keeping development efforts and costs low. Additional features and enhancements can be added in subsequent iterations based on user feedback and priorities.
 
@@ -59,6 +67,19 @@ This MVP focuses on delivering essential functionality to users for searching an
     2. CSS
     3. Bootsrap
     4. JavaScript
+
+- This projects server is hosted on Render.
+- It's also published both on github pages and Vercel links below.
+
+https://mindforge-three.vercel.app/
+
+https://gichukim.github.io/MindForge/
+
+## Bugs
+
+No bugs detected yet, however, 
+
+I need to only display a maximum of 4 content on search pieces per section which i was unable to do. Notice how if you search for "money" then search for "productivity" it adds and not replace? If you have a way to do solve this, feel free to reach out via email or submiting it via the websites contact form. 
 
 ## Support and Contact Details
 
@@ -70,4 +91,4 @@ info@gichukimuchiri.com
 
 ## License
 
-Copyright (c) 2024 Gichuki Muchiri
+Copyright (c) 2024 Collins Gichuki Muchiri

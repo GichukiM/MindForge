@@ -27,6 +27,12 @@ function runProgram() {
         podcastDesc.classList.add("card-text");
         podcastDesc.innerHTML = podcast.description;
         console.log(podcastDesc);
+
+        const podcastLink = document.createElement("a");
+        podcastLink.classList.add("icon-box")
+        podcastLink.href = podcast.link;
+        const podcastLinkIcon = document.createElement("i");
+        podcastLinkIcon.classList.add("ri-youtube-fill");
       });
     });
 
@@ -99,6 +105,7 @@ function getPodcastsQuery(podcasts) {
       if (podcastName == podcast.category) {
         showPodcastDetails(podcast);
       }
+      searchBtn.reset();
     });
   });
 }
@@ -114,6 +121,7 @@ function getQuotesQuery(quotes) {
       if (quoteCat == quote.category) {
         showquoteDetails(quote);
       }
+      searchBtn.reset();
     });
   });
 }
@@ -129,6 +137,7 @@ function getBooksQuery(books) {
       if (bookCat == book.category) {
         showBookDetails(book);
       }
+      searchBtn.reset();
     });
   });
 }
@@ -160,9 +169,16 @@ function showPodcastDetails(podcast) {
   podcastDesc.classList.add("card-text");
   podcastDesc.innerHTML = podcast.description;
   console.log(podcastDesc);
+  const podcastLink = document.createElement("a");
+  podcastLink.classList.add("icon-box")
+  podcastLink.href = podcast.link;
+  const podcastLinkIcon = document.createElement("i");
+  podcastLinkIcon.classList.add("ri-youtube-fill");
 
+  podcastLink.appendChild(podcastLinkIcon)
   podcastBody.appendChild(podcastTitle);
   podcastBody.appendChild(podcastDesc);
+  podcastBody.appendChild(podcastLink)
 
   podcastCard.appendChild(podcastImage);
   podcastCard.appendChild(podcastBody);
@@ -288,20 +304,20 @@ function formToggler() {
                   name="guest"
                 />
               </div>
-              <div class="form-group col-lg-12">
-                <input
-                  type="text"
-                  class="form-control"
-                  placeholder="Podcast Image"
-                  name="image"
-                />
-              </div>
               <div class="form-group col-lg-6">
                 <input
                   type="text"
                   class="form-control"
                   placeholder="Podcast Link"
                   name="link"
+                />
+              </div>
+              <div class="form-group col-lg-12">
+                <input
+                  type="text"
+                  class="form-control"
+                  placeholder="Podcast Image"
+                  name="image"
                 />
               </div>
               <div class="form-group col-lg-12">
@@ -361,7 +377,7 @@ function formToggler() {
     
     <div class="col-lg-8">
             <form action="#" class="row g-3 p-4 p-lg-5 bg-white theme-shadow" id="book-form">
-              <div class="form-group col-lg-6">
+              <div class="form-group col-lg-12">
                 <input
                   type="text"
                   class="form-control"
@@ -373,7 +389,7 @@ function formToggler() {
                 <input
                   type="text"
                   class="form-control"
-                  placeholder="Podcast Category"
+                  placeholder="Quote Category"
                   name="category"
                 />
               </div>
