@@ -24,7 +24,7 @@ In summary, MindForge offers a holistic solution for individuals seeking to nour
    - Search bar prominently displayed for users to search for self-development resources.
 
 2. **Add to Catalogue Sections:**
-   - Enables users to add books, quotes and podcast to our server thus increasing our keywords number and in turn making self development content more accessible.
+   - Should enables users to add books, quotes and podcast to our server thus increasing our keywords number and in turn making self development content more accessible.
    - For Images Links, I would recommend using links from free websites/pinterest. 
 
 3. **Search Sections:**
@@ -77,9 +77,11 @@ https://gichukim.github.io/MindForge/
 
 ## Bugs
 
-No bugs detected yet, however, 
+To enable user to add content into our data base. They can, however it is not persistent. 
 
-I need to only display a maximum of 4 content on search pieces per section which i was unable to do. Notice how if you search for "money" then search for "productivity" it adds and not replace? If you have a way to do solve this, feel free to reach out via email or submiting it via the websites contact form. 
+I need to only display a maximum of 4 content on search pieces per section which i was unable to do. Notice how if you search for "money" then search for "productivity" it adds and not replace? 
+
+If you have a way to solve these issues or any other issue raised thereafte, feel free to reach out via email or submiting it via the websites contact form. 
 
 ## Support and Contact Details
 
