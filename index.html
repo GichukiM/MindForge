@@ -431,12 +431,13 @@
         >
           <div class="col-lg-8">
             <form action="https://formspree.io/f/xyyrbled"
-            method="POST" class="row g-3 p-4 p-lg-5 bg-white theme-shadow">
+            method="POST" class="row g-3 p-4 p-lg-5 bg-white theme-shadow" id="contact-form">
               <div class="form-group col-lg-6">
                 <input
                   type="text"
                   class="form-control"
                   placeholder="Enter First Name"
+                  name="First Name"
                 />
               </div>
               <div class="form-group col-lg-6">
@@ -444,6 +445,7 @@
                   type="text"
                   class="form-control"
                   placeholder="Enter Second Name"
+                  name="Second Name"
                 />
               </div>
               <div class="form-group col-lg-12">
@@ -451,6 +453,7 @@
                   type="email"
                   class="form-control"
                   placeholder="Enter Email Address"
+                  name="Email"
                 />
               </div>
               <div class="form-group col-lg-12">
@@ -458,6 +461,7 @@
                   type="text"
                   class="form-control"
                   placeholder="Enter Subject"
+                  name="Subject"
                 />
               </div>
               <div class="form-group col-lg-12">
@@ -469,8 +473,9 @@
                 ></textarea>
               </div>
               <div class="form-group col-lg-12 d-grid">
-                <button class="btn btn-brand">Send Message</button>
+                <button id="contact-btn" class="btn btn-brand">Send Message</button>
               </div>
+              <p id="my-form-status"></p>
             </form>
           </div>
         </div>
@@ -551,6 +556,7 @@
       type="text/javascript"
       src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.2.0/mdb.umd.min.js"
     ></script>
-    <script src="./script.js"></script>
+    <!-- <script src="./test.js"></script> -->
+    <script src="./main.js"></script>
   </body>
 </html>
